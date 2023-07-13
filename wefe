@@ -1,0 +1,5422 @@
+permuations = 281 i = 14
+N = 15 s = 2
+curIts = 7
+permuations = 288 i = 15
+N = 12 s = 2
+curIts = 5
+permuations = 293 i = 16
+N = 9 s = 2
+curIts = 4
+permuations = 297 i = 17
+N = 6 s = 2
+curIts = 2
+permuations = 299 i = 18
+N = 3 s = 2
+curIts = 1
+permuations = 300 i = 19
+permuations = 7884 i = 12
+N = 59 s = 3
+curIts = 18
+N = 56 s = 2
+curIts = 27
+permuations = 27 i = 0
+N = 53 s = 2
+curIts = 26
+permuations = 53 i = 1
+N = 50 s = 2
+curIts = 24
+permuations = 77 i = 2
+N = 47 s = 2
+curIts = 23
+permuations = 100 i = 3
+N = 44 s = 2
+curIts = 21
+permuations = 121 i = 4
+N = 41 s = 2
+curIts = 20
+permuations = 141 i = 5
+N = 38 s = 2
+curIts = 18
+permuations = 159 i = 6
+N = 35 s = 2
+curIts = 17
+permuations = 176 i = 7
+N = 32 s = 2
+curIts = 15
+permuations = 191 i = 8
+N = 29 s = 2
+curIts = 14
+permuations = 205 i = 9
+N = 26 s = 2
+curIts = 12
+permuations = 217 i = 10
+N = 23 s = 2
+curIts = 11
+permuations = 228 i = 11
+N = 20 s = 2
+curIts = 9
+permuations = 237 i = 12
+N = 17 s = 2
+curIts = 8
+permuations = 245 i = 13
+N = 14 s = 2
+curIts = 6
+permuations = 251 i = 14
+N = 11 s = 2
+curIts = 5
+permuations = 256 i = 15
+N = 8 s = 2
+curIts = 3
+permuations = 259 i = 16
+N = 5 s = 2
+curIts = 2
+permuations = 261 i = 17
+permuations = 8145 i = 13
+N = 55 s = 3
+curIts = 17
+N = 52 s = 2
+curIts = 25
+permuations = 25 i = 0
+N = 49 s = 2
+curIts = 24
+permuations = 49 i = 1
+N = 46 s = 2
+curIts = 22
+permuations = 71 i = 2
+N = 43 s = 2
+curIts = 21
+permuations = 92 i = 3
+N = 40 s = 2
+curIts = 19
+permuations = 111 i = 4
+N = 37 s = 2
+curIts = 18
+permuations = 129 i = 5
+N = 34 s = 2
+curIts = 16
+permuations = 145 i = 6
+N = 31 s = 2
+curIts = 15
+permuations = 160 i = 7
+N = 28 s = 2
+curIts = 13
+permuations = 173 i = 8
+N = 25 s = 2
+curIts = 12
+permuations = 185 i = 9
+N = 22 s = 2
+curIts = 10
+permuations = 195 i = 10
+N = 19 s = 2
+curIts = 9
+permuations = 204 i = 11
+N = 16 s = 2
+curIts = 7
+permuations = 211 i = 12
+N = 13 s = 2
+curIts = 6
+permuations = 217 i = 13
+N = 10 s = 2
+curIts = 4
+permuations = 221 i = 14
+N = 7 s = 2
+curIts = 3
+permuations = 224 i = 15
+N = 4 s = 2
+curIts = 1
+permuations = 225 i = 16
+permuations = 8370 i = 14
+N = 51 s = 3
+curIts = 16
+N = 48 s = 2
+curIts = 23
+permuations = 23 i = 0
+N = 45 s = 2
+curIts = 22
+permuations = 45 i = 1
+N = 42 s = 2
+curIts = 20
+permuations = 65 i = 2
+N = 39 s = 2
+curIts = 19
+permuations = 84 i = 3
+N = 36 s = 2
+curIts = 17
+permuations = 101 i = 4
+N = 33 s = 2
+curIts = 16
+permuations = 117 i = 5
+N = 30 s = 2
+curIts = 14
+permuations = 131 i = 6
+N = 27 s = 2
+curIts = 13
+permuations = 144 i = 7
+N = 24 s = 2
+curIts = 11
+permuations = 155 i = 8
+N = 21 s = 2
+curIts = 10
+permuations = 165 i = 9
+N = 18 s = 2
+curIts = 8
+permuations = 173 i = 10
+N = 15 s = 2
+curIts = 7
+permuations = 180 i = 11
+N = 12 s = 2
+curIts = 5
+permuations = 185 i = 12
+N = 9 s = 2
+curIts = 4
+permuations = 189 i = 13
+N = 6 s = 2
+curIts = 2
+permuations = 191 i = 14
+N = 3 s = 2
+curIts = 1
+permuations = 192 i = 15
+permuations = 8562 i = 15
+N = 47 s = 3
+curIts = 14
+N = 44 s = 2
+curIts = 21
+permuations = 21 i = 0
+N = 41 s = 2
+curIts = 20
+permuations = 41 i = 1
+N = 38 s = 2
+curIts = 18
+permuations = 59 i = 2
+N = 35 s = 2
+curIts = 17
+permuations = 76 i = 3
+N = 32 s = 2
+curIts = 15
+permuations = 91 i = 4
+N = 29 s = 2
+curIts = 14
+permuations = 105 i = 5
+N = 26 s = 2
+curIts = 12
+permuations = 117 i = 6
+N = 23 s = 2
+curIts = 11
+permuations = 128 i = 7
+N = 20 s = 2
+curIts = 9
+permuations = 137 i = 8
+N = 17 s = 2
+curIts = 8
+permuations = 145 i = 9
+N = 14 s = 2
+curIts = 6
+permuations = 151 i = 10
+N = 11 s = 2
+curIts = 5
+permuations = 156 i = 11
+N = 8 s = 2
+curIts = 3
+permuations = 159 i = 12
+N = 5 s = 2
+curIts = 2
+permuations = 161 i = 13
+permuations = 8723 i = 16
+N = 43 s = 3
+curIts = 13
+N = 40 s = 2
+curIts = 19
+permuations = 19 i = 0
+N = 37 s = 2
+curIts = 18
+permuations = 37 i = 1
+N = 34 s = 2
+curIts = 16
+permuations = 53 i = 2
+N = 31 s = 2
+curIts = 15
+permuations = 68 i = 3
+N = 28 s = 2
+curIts = 13
+permuations = 81 i = 4
+N = 25 s = 2
+curIts = 12
+permuations = 93 i = 5
+N = 22 s = 2
+curIts = 10
+permuations = 103 i = 6
+N = 19 s = 2
+curIts = 9
+permuations = 112 i = 7
+N = 16 s = 2
+curIts = 7
+permuations = 119 i = 8
+N = 13 s = 2
+curIts = 6
+permuations = 125 i = 9
+N = 10 s = 2
+curIts = 4
+permuations = 129 i = 10
+N = 7 s = 2
+curIts = 3
+permuations = 132 i = 11
+N = 4 s = 2
+curIts = 1
+permuations = 133 i = 12
+permuations = 8856 i = 17
+N = 39 s = 3
+curIts = 12
+N = 36 s = 2
+curIts = 17
+permuations = 17 i = 0
+N = 33 s = 2
+curIts = 16
+permuations = 33 i = 1
+N = 30 s = 2
+curIts = 14
+permuations = 47 i = 2
+N = 27 s = 2
+curIts = 13
+permuations = 60 i = 3
+N = 24 s = 2
+curIts = 11
+permuations = 71 i = 4
+N = 21 s = 2
+curIts = 10
+permuations = 81 i = 5
+N = 18 s = 2
+curIts = 8
+permuations = 89 i = 6
+N = 15 s = 2
+curIts = 7
+permuations = 96 i = 7
+N = 12 s = 2
+curIts = 5
+permuations = 101 i = 8
+N = 9 s = 2
+curIts = 4
+permuations = 105 i = 9
+N = 6 s = 2
+curIts = 2
+permuations = 107 i = 10
+N = 3 s = 2
+curIts = 1
+permuations = 108 i = 11
+permuations = 8964 i = 18
+N = 35 s = 3
+curIts = 10
+N = 32 s = 2
+curIts = 15
+permuations = 15 i = 0
+N = 29 s = 2
+curIts = 14
+permuations = 29 i = 1
+N = 26 s = 2
+curIts = 12
+permuations = 41 i = 2
+N = 23 s = 2
+curIts = 11
+permuations = 52 i = 3
+N = 20 s = 2
+curIts = 9
+permuations = 61 i = 4
+N = 17 s = 2
+curIts = 8
+permuations = 69 i = 5
+N = 14 s = 2
+curIts = 6
+permuations = 75 i = 6
+N = 11 s = 2
+curIts = 5
+permuations = 80 i = 7
+N = 8 s = 2
+curIts = 3
+permuations = 83 i = 8
+N = 5 s = 2
+curIts = 2
+permuations = 85 i = 9
+permuations = 9049 i = 19
+N = 31 s = 3
+curIts = 9
+N = 28 s = 2
+curIts = 13
+permuations = 13 i = 0
+N = 25 s = 2
+curIts = 12
+permuations = 25 i = 1
+N = 22 s = 2
+curIts = 10
+permuations = 35 i = 2
+N = 19 s = 2
+curIts = 9
+permuations = 44 i = 3
+N = 16 s = 2
+curIts = 7
+permuations = 51 i = 4
+N = 13 s = 2
+curIts = 6
+permuations = 57 i = 5
+N = 10 s = 2
+curIts = 4
+permuations = 61 i = 6
+N = 7 s = 2
+curIts = 3
+permuations = 64 i = 7
+N = 4 s = 2
+curIts = 1
+permuations = 65 i = 8
+permuations = 9114 i = 20
+N = 27 s = 3
+curIts = 8
+N = 24 s = 2
+curIts = 11
+permuations = 11 i = 0
+N = 21 s = 2
+curIts = 10
+permuations = 21 i = 1
+N = 18 s = 2
+curIts = 8
+permuations = 29 i = 2
+N = 15 s = 2
+curIts = 7
+permuations = 36 i = 3
+N = 12 s = 2
+curIts = 5
+permuations = 41 i = 4
+N = 9 s = 2
+curIts = 4
+permuations = 45 i = 5
+N = 6 s = 2
+curIts = 2
+permuations = 47 i = 6
+N = 3 s = 2
+curIts = 1
+permuations = 48 i = 7
+permuations = 9162 i = 21
+N = 23 s = 3
+curIts = 6
+N = 20 s = 2
+curIts = 9
+permuations = 9 i = 0
+N = 17 s = 2
+curIts = 8
+permuations = 17 i = 1
+N = 14 s = 2
+curIts = 6
+permuations = 23 i = 2
+N = 11 s = 2
+curIts = 5
+permuations = 28 i = 3
+N = 8 s = 2
+curIts = 3
+permuations = 31 i = 4
+N = 5 s = 2
+curIts = 2
+permuations = 33 i = 5
+permuations = 9195 i = 22
+N = 19 s = 3
+curIts = 5
+N = 16 s = 2
+curIts = 7
+permuations = 7 i = 0
+N = 13 s = 2
+curIts = 6
+permuations = 13 i = 1
+N = 10 s = 2
+curIts = 4
+permuations = 17 i = 2
+N = 7 s = 2
+curIts = 3
+permuations = 20 i = 3
+N = 4 s = 2
+curIts = 1
+permuations = 21 i = 4
+permuations = 9216 i = 23
+N = 15 s = 3
+curIts = 4
+N = 12 s = 2
+curIts = 5
+permuations = 5 i = 0
+N = 9 s = 2
+curIts = 4
+permuations = 9 i = 1
+N = 6 s = 2
+curIts = 2
+permuations = 11 i = 2
+N = 3 s = 2
+curIts = 1
+permuations = 12 i = 3
+permuations = 9228 i = 24
+N = 11 s = 3
+curIts = 2
+N = 8 s = 2
+curIts = 3
+permuations = 3 i = 0
+N = 5 s = 2
+curIts = 2
+permuations = 5 i = 1
+permuations = 9233 i = 25
+N = 7 s = 3
+curIts = 1
+N = 4 s = 2
+curIts = 1
+permuations = 1 i = 0
+permuations = 9234 i = 26
+permuations = 430175 i = 16
+N = 110 s = 4
+curIts = 26
+N = 106 s = 3
+curIts = 34
+N = 103 s = 2
+curIts = 51
+permuations = 51 i = 0
+N = 100 s = 2
+curIts = 49
+permuations = 100 i = 1
+N = 97 s = 2
+curIts = 48
+permuations = 148 i = 2
+N = 94 s = 2
+curIts = 46
+permuations = 194 i = 3
+N = 91 s = 2
+curIts = 45
+permuations = 239 i = 4
+N = 88 s = 2
+curIts = 43
+permuations = 282 i = 5
+N = 85 s = 2
+curIts = 42
+permuations = 324 i = 6
+N = 82 s = 2
+curIts = 40
+permuations = 364 i = 7
+N = 79 s = 2
+curIts = 39
+permuations = 403 i = 8
+N = 76 s = 2
+curIts = 37
+permuations = 440 i = 9
+N = 73 s = 2
+curIts = 36
+permuations = 476 i = 10
+N = 70 s = 2
+curIts = 34
+permuations = 510 i = 11
+N = 67 s = 2
+curIts = 33
+permuations = 543 i = 12
+N = 64 s = 2
+curIts = 31
+permuations = 574 i = 13
+N = 61 s = 2
+curIts = 30
+permuations = 604 i = 14
+N = 58 s = 2
+curIts = 28
+permuations = 632 i = 15
+N = 55 s = 2
+curIts = 27
+permuations = 659 i = 16
+N = 52 s = 2
+curIts = 25
+permuations = 684 i = 17
+N = 49 s = 2
+curIts = 24
+permuations = 708 i = 18
+N = 46 s = 2
+curIts = 22
+permuations = 730 i = 19
+N = 43 s = 2
+curIts = 21
+permuations = 751 i = 20
+N = 40 s = 2
+curIts = 19
+permuations = 770 i = 21
+N = 37 s = 2
+curIts = 18
+permuations = 788 i = 22
+N = 34 s = 2
+curIts = 16
+permuations = 804 i = 23
+N = 31 s = 2
+curIts = 15
+permuations = 819 i = 24
+N = 28 s = 2
+curIts = 13
+permuations = 832 i = 25
+N = 25 s = 2
+curIts = 12
+permuations = 844 i = 26
+N = 22 s = 2
+curIts = 10
+permuations = 854 i = 27
+N = 19 s = 2
+curIts = 9
+permuations = 863 i = 28
+N = 16 s = 2
+curIts = 7
+permuations = 870 i = 29
+N = 13 s = 2
+curIts = 6
+permuations = 876 i = 30
+N = 10 s = 2
+curIts = 4
+permuations = 880 i = 31
+N = 7 s = 2
+curIts = 3
+permuations = 883 i = 32
+N = 4 s = 2
+curIts = 1
+permuations = 884 i = 33
+permuations = 884 i = 0
+N = 102 s = 3
+curIts = 33
+N = 99 s = 2
+curIts = 49
+permuations = 49 i = 0
+N = 96 s = 2
+curIts = 47
+permuations = 96 i = 1
+N = 93 s = 2
+curIts = 46
+permuations = 142 i = 2
+N = 90 s = 2
+curIts = 44
+permuations = 186 i = 3
+N = 87 s = 2
+curIts = 43
+permuations = 229 i = 4
+N = 84 s = 2
+curIts = 41
+permuations = 270 i = 5
+N = 81 s = 2
+curIts = 40
+permuations = 310 i = 6
+N = 78 s = 2
+curIts = 38
+permuations = 348 i = 7
+N = 75 s = 2
+curIts = 37
+permuations = 385 i = 8
+N = 72 s = 2
+curIts = 35
+permuations = 420 i = 9
+N = 69 s = 2
+curIts = 34
+permuations = 454 i = 10
+N = 66 s = 2
+curIts = 32
+permuations = 486 i = 11
+N = 63 s = 2
+curIts = 31
+permuations = 517 i = 12
+N = 60 s = 2
+curIts = 29
+permuations = 546 i = 13
+N = 57 s = 2
+curIts = 28
+permuations = 574 i = 14
+N = 54 s = 2
+curIts = 26
+permuations = 600 i = 15
+N = 51 s = 2
+curIts = 25
+permuations = 625 i = 16
+N = 48 s = 2
+curIts = 23
+permuations = 648 i = 17
+N = 45 s = 2
+curIts = 22
+permuations = 670 i = 18
+N = 42 s = 2
+curIts = 20
+permuations = 690 i = 19
+N = 39 s = 2
+curIts = 19
+permuations = 709 i = 20
+N = 36 s = 2
+curIts = 17
+permuations = 726 i = 21
+N = 33 s = 2
+curIts = 16
+permuations = 742 i = 22
+N = 30 s = 2
+curIts = 14
+permuations = 756 i = 23
+N = 27 s = 2
+curIts = 13
+permuations = 769 i = 24
+N = 24 s = 2
+curIts = 11
+permuations = 780 i = 25
+N = 21 s = 2
+curIts = 10
+permuations = 790 i = 26
+N = 18 s = 2
+curIts = 8
+permuations = 798 i = 27
+N = 15 s = 2
+curIts = 7
+permuations = 805 i = 28
+N = 12 s = 2
+curIts = 5
+permuations = 810 i = 29
+N = 9 s = 2
+curIts = 4
+permuations = 814 i = 30
+N = 6 s = 2
+curIts = 2
+permuations = 816 i = 31
+N = 3 s = 2
+curIts = 1
+permuations = 817 i = 32
+permuations = 1701 i = 1
+N = 98 s = 3
+curIts = 31
+N = 95 s = 2
+curIts = 47
+permuations = 47 i = 0
+N = 92 s = 2
+curIts = 45
+permuations = 92 i = 1
+N = 89 s = 2
+curIts = 44
+permuations = 136 i = 2
+N = 86 s = 2
+curIts = 42
+permuations = 178 i = 3
+N = 83 s = 2
+curIts = 41
+permuations = 219 i = 4
+N = 80 s = 2
+curIts = 39
+permuations = 258 i = 5
+N = 77 s = 2
+curIts = 38
+permuations = 296 i = 6
+N = 74 s = 2
+curIts = 36
+permuations = 332 i = 7
+N = 71 s = 2
+curIts = 35
+permuations = 367 i = 8
+N = 68 s = 2
+curIts = 33
+permuations = 400 i = 9
+N = 65 s = 2
+curIts = 32
+permuations = 432 i = 10
+N = 62 s = 2
+curIts = 30
+permuations = 462 i = 11
+N = 59 s = 2
+curIts = 29
+permuations = 491 i = 12
+N = 56 s = 2
+curIts = 27
+permuations = 518 i = 13
+N = 53 s = 2
+curIts = 26
+permuations = 544 i = 14
+N = 50 s = 2
+curIts = 24
+permuations = 568 i = 15
+N = 47 s = 2
+curIts = 23
+permuations = 591 i = 16
+N = 44 s = 2
+curIts = 21
+permuations = 612 i = 17
+N = 41 s = 2
+curIts = 20
+permuations = 632 i = 18
+N = 38 s = 2
+curIts = 18
+permuations = 650 i = 19
+N = 35 s = 2
+curIts = 17
+permuations = 667 i = 20
+N = 32 s = 2
+curIts = 15
+permuations = 682 i = 21
+N = 29 s = 2
+curIts = 14
+permuations = 696 i = 22
+N = 26 s = 2
+curIts = 12
+permuations = 708 i = 23
+N = 23 s = 2
+curIts = 11
+permuations = 719 i = 24
+N = 20 s = 2
+curIts = 9
+permuations = 728 i = 25
+N = 17 s = 2
+curIts = 8
+permuations = 736 i = 26
+N = 14 s = 2
+curIts = 6
+permuations = 742 i = 27
+N = 11 s = 2
+curIts = 5
+permuations = 747 i = 28
+N = 8 s = 2
+curIts = 3
+permuations = 750 i = 29
+N = 5 s = 2
+curIts = 2
+permuations = 752 i = 30
+permuations = 2453 i = 2
+N = 94 s = 3
+curIts = 30
+N = 91 s = 2
+curIts = 45
+permuations = 45 i = 0
+N = 88 s = 2
+curIts = 43
+permuations = 88 i = 1
+N = 85 s = 2
+curIts = 42
+permuations = 130 i = 2
+N = 82 s = 2
+curIts = 40
+permuations = 170 i = 3
+N = 79 s = 2
+curIts = 39
+permuations = 209 i = 4
+N = 76 s = 2
+curIts = 37
+permuations = 246 i = 5
+N = 73 s = 2
+curIts = 36
+permuations = 282 i = 6
+N = 70 s = 2
+curIts = 34
+permuations = 316 i = 7
+N = 67 s = 2
+curIts = 33
+permuations = 349 i = 8
+N = 64 s = 2
+curIts = 31
+permuations = 380 i = 9
+N = 61 s = 2
+curIts = 30
+permuations = 410 i = 10
+N = 58 s = 2
+curIts = 28
+permuations = 438 i = 11
+N = 55 s = 2
+curIts = 27
+permuations = 465 i = 12
+N = 52 s = 2
+curIts = 25
+permuations = 490 i = 13
+N = 49 s = 2
+curIts = 24
+permuations = 514 i = 14
+N = 46 s = 2
+curIts = 22
+permuations = 536 i = 15
+N = 43 s = 2
+curIts = 21
+permuations = 557 i = 16
+N = 40 s = 2
+curIts = 19
+permuations = 576 i = 17
+N = 37 s = 2
+curIts = 18
+permuations = 594 i = 18
+N = 34 s = 2
+curIts = 16
+permuations = 610 i = 19
+N = 31 s = 2
+curIts = 15
+permuations = 625 i = 20
+N = 28 s = 2
+curIts = 13
+permuations = 638 i = 21
+N = 25 s = 2
+curIts = 12
+permuations = 650 i = 22
+N = 22 s = 2
+curIts = 10
+permuations = 660 i = 23
+N = 19 s = 2
+curIts = 9
+permuations = 669 i = 24
+N = 16 s = 2
+curIts = 7
+permuations = 676 i = 25
+N = 13 s = 2
+curIts = 6
+permuations = 682 i = 26
+N = 10 s = 2
+curIts = 4
+permuations = 686 i = 27
+N = 7 s = 2
+curIts = 3
+permuations = 689 i = 28
+N = 4 s = 2
+curIts = 1
+permuations = 690 i = 29
+permuations = 3143 i = 3
+N = 90 s = 3
+curIts = 29
+N = 87 s = 2
+curIts = 43
+permuations = 43 i = 0
+N = 84 s = 2
+curIts = 41
+permuations = 84 i = 1
+N = 81 s = 2
+curIts = 40
+permuations = 124 i = 2
+N = 78 s = 2
+curIts = 38
+permuations = 162 i = 3
+N = 75 s = 2
+curIts = 37
+permuations = 199 i = 4
+N = 72 s = 2
+curIts = 35
+permuations = 234 i = 5
+N = 69 s = 2
+curIts = 34
+permuations = 268 i = 6
+N = 66 s = 2
+curIts = 32
+permuations = 300 i = 7
+N = 63 s = 2
+curIts = 31
+permuations = 331 i = 8
+N = 60 s = 2
+curIts = 29
+permuations = 360 i = 9
+N = 57 s = 2
+curIts = 28
+permuations = 388 i = 10
+N = 54 s = 2
+curIts = 26
+permuations = 414 i = 11
+N = 51 s = 2
+curIts = 25
+permuations = 439 i = 12
+N = 48 s = 2
+curIts = 23
+permuations = 462 i = 13
+N = 45 s = 2
+curIts = 22
+permuations = 484 i = 14
+N = 42 s = 2
+curIts = 20
+permuations = 504 i = 15
+N = 39 s = 2
+curIts = 19
+permuations = 523 i = 16
+N = 36 s = 2
+curIts = 17
+permuations = 540 i = 17
+N = 33 s = 2
+curIts = 16
+permuations = 556 i = 18
+N = 30 s = 2
+curIts = 14
+permuations = 570 i = 19
+N = 27 s = 2
+curIts = 13
+permuations = 583 i = 20
+N = 24 s = 2
+curIts = 11
+permuations = 594 i = 21
+N = 21 s = 2
+curIts = 10
+permuations = 604 i = 22
+N = 18 s = 2
+curIts = 8
+permuations = 612 i = 23
+N = 15 s = 2
+curIts = 7
+permuations = 619 i = 24
+N = 12 s = 2
+curIts = 5
+permuations = 624 i = 25
+N = 9 s = 2
+curIts = 4
+permuations = 628 i = 26
+N = 6 s = 2
+curIts = 2
+permuations = 630 i = 27
+N = 3 s = 2
+curIts = 1
+permuations = 631 i = 28
+permuations = 3774 i = 4
+N = 86 s = 3
+curIts = 27
+N = 83 s = 2
+curIts = 41
+permuations = 41 i = 0
+N = 80 s = 2
+curIts = 39
+permuations = 80 i = 1
+N = 77 s = 2
+curIts = 38
+permuations = 118 i = 2
+N = 74 s = 2
+curIts = 36
+permuations = 154 i = 3
+N = 71 s = 2
+curIts = 35
+permuations = 189 i = 4
+N = 68 s = 2
+curIts = 33
+permuations = 222 i = 5
+N = 65 s = 2
+curIts = 32
+permuations = 254 i = 6
+N = 62 s = 2
+curIts = 30
+permuations = 284 i = 7
+N = 59 s = 2
+curIts = 29
+permuations = 313 i = 8
+N = 56 s = 2
+curIts = 27
+permuations = 340 i = 9
+N = 53 s = 2
+curIts = 26
+permuations = 366 i = 10
+N = 50 s = 2
+curIts = 24
+permuations = 390 i = 11
+N = 47 s = 2
+curIts = 23
+permuations = 413 i = 12
+N = 44 s = 2
+curIts = 21
+permuations = 434 i = 13
+N = 41 s = 2
+curIts = 20
+permuations = 454 i = 14
+N = 38 s = 2
+curIts = 18
+permuations = 472 i = 15
+N = 35 s = 2
+curIts = 17
+permuations = 489 i = 16
+N = 32 s = 2
+curIts = 15
+permuations = 504 i = 17
+N = 29 s = 2
+curIts = 14
+permuations = 518 i = 18
+N = 26 s = 2
+curIts = 12
+permuations = 530 i = 19
+N = 23 s = 2
+curIts = 11
+permuations = 541 i = 20
+N = 20 s = 2
+curIts = 9
+permuations = 550 i = 21
+N = 17 s = 2
+curIts = 8
+permuations = 558 i = 22
+N = 14 s = 2
+curIts = 6
+permuations = 564 i = 23
+N = 11 s = 2
+curIts = 5
+permuations = 569 i = 24
+N = 8 s = 2
+curIts = 3
+permuations = 572 i = 25
+N = 5 s = 2
+curIts = 2
+permuations = 574 i = 26
+permuations = 4348 i = 5
+N = 82 s = 3
+curIts = 26
+N = 79 s = 2
+curIts = 39
+permuations = 39 i = 0
+N = 76 s = 2
+curIts = 37
+permuations = 76 i = 1
+N = 73 s = 2
+curIts = 36
+permuations = 112 i = 2
+N = 70 s = 2
+curIts = 34
+permuations = 146 i = 3
+N = 67 s = 2
+curIts = 33
+permuations = 179 i = 4
+N = 64 s = 2
+curIts = 31
+permuations = 210 i = 5
+N = 61 s = 2
+curIts = 30
+permuations = 240 i = 6
+N = 58 s = 2
+curIts = 28
+permuations = 268 i = 7
+N = 55 s = 2
+curIts = 27
+permuations = 295 i = 8
+N = 52 s = 2
+curIts = 25
+permuations = 320 i = 9
+N = 49 s = 2
+curIts = 24
+permuations = 344 i = 10
+N = 46 s = 2
+curIts = 22
+permuations = 366 i = 11
+N = 43 s = 2
+curIts = 21
+permuations = 387 i = 12
+N = 40 s = 2
+curIts = 19
+permuations = 406 i = 13
+N = 37 s = 2
+curIts = 18
+permuations = 424 i = 14
+N = 34 s = 2
+curIts = 16
+permuations = 440 i = 15
+N = 31 s = 2
+curIts = 15
+permuations = 455 i = 16
+N = 28 s = 2
+curIts = 13
+permuations = 468 i = 17
+N = 25 s = 2
+curIts = 12
+permuations = 480 i = 18
+N = 22 s = 2
+curIts = 10
+permuations = 490 i = 19
+N = 19 s = 2
+curIts = 9
+permuations = 499 i = 20
+N = 16 s = 2
+curIts = 7
+permuations = 506 i = 21
+N = 13 s = 2
+curIts = 6
+permuations = 512 i = 22
+N = 10 s = 2
+curIts = 4
+permuations = 516 i = 23
+N = 7 s = 2
+curIts = 3
+permuations = 519 i = 24
+N = 4 s = 2
+curIts = 1
+permuations = 520 i = 25
+permuations = 4868 i = 6
+N = 78 s = 3
+curIts = 25
+N = 75 s = 2
+curIts = 37
+permuations = 37 i = 0
+N = 72 s = 2
+curIts = 35
+permuations = 72 i = 1
+N = 69 s = 2
+curIts = 34
+permuations = 106 i = 2
+N = 66 s = 2
+curIts = 32
+permuations = 138 i = 3
+N = 63 s = 2
+curIts = 31
+permuations = 169 i = 4
+N = 60 s = 2
+curIts = 29
+permuations = 198 i = 5
+N = 57 s = 2
+curIts = 28
+permuations = 226 i = 6
+N = 54 s = 2
+curIts = 26
+permuations = 252 i = 7
+N = 51 s = 2
+curIts = 25
+permuations = 277 i = 8
+N = 48 s = 2
+curIts = 23
+permuations = 300 i = 9
+N = 45 s = 2
+curIts = 22
+permuations = 322 i = 10
+N = 42 s = 2
+curIts = 20
+permuations = 342 i = 11
+N = 39 s = 2
+curIts = 19
+permuations = 361 i = 12
+N = 36 s = 2
+curIts = 17
+permuations = 378 i = 13
+N = 33 s = 2
+curIts = 16
+permuations = 394 i = 14
+N = 30 s = 2
+curIts = 14
+permuations = 408 i = 15
+N = 27 s = 2
+curIts = 13
+permuations = 421 i = 16
+N = 24 s = 2
+curIts = 11
+permuations = 432 i = 17
+N = 21 s = 2
+curIts = 10
+permuations = 442 i = 18
+N = 18 s = 2
+curIts = 8
+permuations = 450 i = 19
+N = 15 s = 2
+curIts = 7
+permuations = 457 i = 20
+N = 12 s = 2
+curIts = 5
+permuations = 462 i = 21
+N = 9 s = 2
+curIts = 4
+permuations = 466 i = 22
+N = 6 s = 2
+curIts = 2
+permuations = 468 i = 23
+N = 3 s = 2
+curIts = 1
+permuations = 469 i = 24
+permuations = 5337 i = 7
+N = 74 s = 3
+curIts = 23
+N = 71 s = 2
+curIts = 35
+permuations = 35 i = 0
+N = 68 s = 2
+curIts = 33
+permuations = 68 i = 1
+N = 65 s = 2
+curIts = 32
+permuations = 100 i = 2
+N = 62 s = 2
+curIts = 30
+permuations = 130 i = 3
+N = 59 s = 2
+curIts = 29
+permuations = 159 i = 4
+N = 56 s = 2
+curIts = 27
+permuations = 186 i = 5
+N = 53 s = 2
+curIts = 26
+permuations = 212 i = 6
+N = 50 s = 2
+curIts = 24
+permuations = 236 i = 7
+N = 47 s = 2
+curIts = 23
+permuations = 259 i = 8
+N = 44 s = 2
+curIts = 21
+permuations = 280 i = 9
+N = 41 s = 2
+curIts = 20
+permuations = 300 i = 10
+N = 38 s = 2
+curIts = 18
+permuations = 318 i = 11
+N = 35 s = 2
+curIts = 17
+permuations = 335 i = 12
+N = 32 s = 2
+curIts = 15
+permuations = 350 i = 13
+N = 29 s = 2
+curIts = 14
+permuations = 364 i = 14
+N = 26 s = 2
+curIts = 12
+permuations = 376 i = 15
+N = 23 s = 2
+curIts = 11
+permuations = 387 i = 16
+N = 20 s = 2
+curIts = 9
+permuations = 396 i = 17
+N = 17 s = 2
+curIts = 8
+permuations = 404 i = 18
+N = 14 s = 2
+curIts = 6
+permuations = 410 i = 19
+N = 11 s = 2
+curIts = 5
+permuations = 415 i = 20
+N = 8 s = 2
+curIts = 3
+permuations = 418 i = 21
+N = 5 s = 2
+curIts = 2
+permuations = 420 i = 22
+permuations = 5757 i = 8
+N = 70 s = 3
+curIts = 22
+N = 67 s = 2
+curIts = 33
+permuations = 33 i = 0
+N = 64 s = 2
+curIts = 31
+permuations = 64 i = 1
+N = 61 s = 2
+curIts = 30
+permuations = 94 i = 2
+N = 58 s = 2
+curIts = 28
+permuations = 122 i = 3
+N = 55 s = 2
+curIts = 27
+permuations = 149 i = 4
+N = 52 s = 2
+curIts = 25
+permuations = 174 i = 5
+N = 49 s = 2
+curIts = 24
+permuations = 198 i = 6
+N = 46 s = 2
+curIts = 22
+permuations = 220 i = 7
+N = 43 s = 2
+curIts = 21
+permuations = 241 i = 8
+N = 40 s = 2
+curIts = 19
+permuations = 260 i = 9
+N = 37 s = 2
+curIts = 18
+permuations = 278 i = 10
+N = 34 s = 2
+curIts = 16
+permuations = 294 i = 11
+N = 31 s = 2
+curIts = 15
+permuations = 309 i = 12
+N = 28 s = 2
+curIts = 13
+permuations = 322 i = 13
+N = 25 s = 2
+curIts = 12
+permuations = 334 i = 14
+N = 22 s = 2
+curIts = 10
+permuations = 344 i = 15
+N = 19 s = 2
+curIts = 9
+permuations = 353 i = 16
+N = 16 s = 2
+curIts = 7
+permuations = 360 i = 17
+N = 13 s = 2
+curIts = 6
+permuations = 366 i = 18
+N = 10 s = 2
+curIts = 4
+permuations = 370 i = 19
+N = 7 s = 2
+curIts = 3
+permuations = 373 i = 20
+N = 4 s = 2
+curIts = 1
+permuations = 374 i = 21
+permuations = 6131 i = 9
+N = 66 s = 3
+curIts = 21
+N = 63 s = 2
+curIts = 31
+permuations = 31 i = 0
+N = 60 s = 2
+curIts = 29
+permuations = 60 i = 1
+N = 57 s = 2
+curIts = 28
+permuations = 88 i = 2
+N = 54 s = 2
+curIts = 26
+permuations = 114 i = 3
+N = 51 s = 2
+curIts = 25
+permuations = 139 i = 4
+N = 48 s = 2
+curIts = 23
+permuations = 162 i = 5
+N = 45 s = 2
+curIts = 22
+permuations = 184 i = 6
+N = 42 s = 2
+curIts = 20
+permuations = 204 i = 7
+N = 39 s = 2
+curIts = 19
+permuations = 223 i = 8
+N = 36 s = 2
+curIts = 17
+permuations = 240 i = 9
+N = 33 s = 2
+curIts = 16
+permuations = 256 i = 10
+N = 30 s = 2
+curIts = 14
+permuations = 270 i = 11
+N = 27 s = 2
+curIts = 13
+permuations = 283 i = 12
+N = 24 s = 2
+curIts = 11
+permuations = 294 i = 13
+N = 21 s = 2
+curIts = 10
+permuations = 304 i = 14
+N = 18 s = 2
+curIts = 8
+permuations = 312 i = 15
+N = 15 s = 2
+curIts = 7
+permuations = 319 i = 16
+N = 12 s = 2
+curIts = 5
+permuations = 324 i = 17
+N = 9 s = 2
+curIts = 4
+permuations = 328 i = 18
+N = 6 s = 2
+curIts = 2
+permuations = 330 i = 19
+N = 3 s = 2
+curIts = 1
+permuations = 331 i = 20
+permuations = 6462 i = 10
+N = 62 s = 3
+curIts = 19
+N = 59 s = 2
+curIts = 29
+permuations = 29 i = 0
+N = 56 s = 2
+curIts = 27
+permuations = 56 i = 1
+N = 53 s = 2
+curIts = 26
+permuations = 82 i = 2
+N = 50 s = 2
+curIts = 24
+permuations = 106 i = 3
+N = 47 s = 2
+curIts = 23
+permuations = 129 i = 4
+N = 44 s = 2
+curIts = 21
+permuations = 150 i = 5
+N = 41 s = 2
+curIts = 20
+permuations = 170 i = 6
+N = 38 s = 2
+curIts = 18
+permuations = 188 i = 7
+N = 35 s = 2
+curIts = 17
+permuations = 205 i = 8
+N = 32 s = 2
+curIts = 15
+permuations = 220 i = 9
+N = 29 s = 2
+curIts = 14
+permuations = 234 i = 10
+N = 26 s = 2
+curIts = 12
+permuations = 246 i = 11
+N = 23 s = 2
+curIts = 11
+permuations = 257 i = 12
+N = 20 s = 2
+curIts = 9
+permuations = 266 i = 13
+N = 17 s = 2
+curIts = 8
+permuations = 274 i = 14
+N = 14 s = 2
+curIts = 6
+permuations = 280 i = 15
+N = 11 s = 2
+curIts = 5
+permuations = 285 i = 16
+N = 8 s = 2
+curIts = 3
+permuations = 288 i = 17
+N = 5 s = 2
+curIts = 2
+permuations = 290 i = 18
+permuations = 6752 i = 11
+N = 58 s = 3
+curIts = 18
+N = 55 s = 2
+curIts = 27
+permuations = 27 i = 0
+N = 52 s = 2
+curIts = 25
+permuations = 52 i = 1
+N = 49 s = 2
+curIts = 24
+permuations = 76 i = 2
+N = 46 s = 2
+curIts = 22
+permuations = 98 i = 3
+N = 43 s = 2
+curIts = 21
+permuations = 119 i = 4
+N = 40 s = 2
+curIts = 19
+permuations = 138 i = 5
+N = 37 s = 2
+curIts = 18
+permuations = 156 i = 6
+N = 34 s = 2
+curIts = 16
+permuations = 172 i = 7
+N = 31 s = 2
+curIts = 15
+permuations = 187 i = 8
+N = 28 s = 2
+curIts = 13
+permuations = 200 i = 9
+N = 25 s = 2
+curIts = 12
+permuations = 212 i = 10
+N = 22 s = 2
+curIts = 10
+permuations = 222 i = 11
+N = 19 s = 2
+curIts = 9
+permuations = 231 i = 12
+N = 16 s = 2
+curIts = 7
+permuations = 238 i = 13
+N = 13 s = 2
+curIts = 6
+permuations = 244 i = 14
+N = 10 s = 2
+curIts = 4
+permuations = 248 i = 15
+N = 7 s = 2
+curIts = 3
+permuations = 251 i = 16
+N = 4 s = 2
+curIts = 1
+permuations = 252 i = 17
+permuations = 7004 i = 12
+N = 54 s = 3
+curIts = 17
+N = 51 s = 2
+curIts = 25
+permuations = 25 i = 0
+N = 48 s = 2
+curIts = 23
+permuations = 48 i = 1
+N = 45 s = 2
+curIts = 22
+permuations = 70 i = 2
+N = 42 s = 2
+curIts = 20
+permuations = 90 i = 3
+N = 39 s = 2
+curIts = 19
+permuations = 109 i = 4
+N = 36 s = 2
+curIts = 17
+permuations = 126 i = 5
+N = 33 s = 2
+curIts = 16
+permuations = 142 i = 6
+N = 30 s = 2
+curIts = 14
+permuations = 156 i = 7
+N = 27 s = 2
+curIts = 13
+permuations = 169 i = 8
+N = 24 s = 2
+curIts = 11
+permuations = 180 i = 9
+N = 21 s = 2
+curIts = 10
+permuations = 190 i = 10
+N = 18 s = 2
+curIts = 8
+permuations = 198 i = 11
+N = 15 s = 2
+curIts = 7
+permuations = 205 i = 12
+N = 12 s = 2
+curIts = 5
+permuations = 210 i = 13
+N = 9 s = 2
+curIts = 4
+permuations = 214 i = 14
+N = 6 s = 2
+curIts = 2
+permuations = 216 i = 15
+N = 3 s = 2
+curIts = 1
+permuations = 217 i = 16
+permuations = 7221 i = 13
+N = 50 s = 3
+curIts = 15
+N = 47 s = 2
+curIts = 23
+permuations = 23 i = 0
+N = 44 s = 2
+curIts = 21
+permuations = 44 i = 1
+N = 41 s = 2
+curIts = 20
+permuations = 64 i = 2
+N = 38 s = 2
+curIts = 18
+permuations = 82 i = 3
+N = 35 s = 2
+curIts = 17
+permuations = 99 i = 4
+N = 32 s = 2
+curIts = 15
+permuations = 114 i = 5
+N = 29 s = 2
+curIts = 14
+permuations = 128 i = 6
+N = 26 s = 2
+curIts = 12
+permuations = 140 i = 7
+N = 23 s = 2
+curIts = 11
+permuations = 151 i = 8
+N = 20 s = 2
+curIts = 9
+permuations = 160 i = 9
+N = 17 s = 2
+curIts = 8
+permuations = 168 i = 10
+N = 14 s = 2
+curIts = 6
+permuations = 174 i = 11
+N = 11 s = 2
+curIts = 5
+permuations = 179 i = 12
+N = 8 s = 2
+curIts = 3
+permuations = 182 i = 13
+N = 5 s = 2
+curIts = 2
+permuations = 184 i = 14
+permuations = 7405 i = 14
+N = 46 s = 3
+curIts = 14
+N = 43 s = 2
+curIts = 21
+permuations = 21 i = 0
+N = 40 s = 2
+curIts = 19
+permuations = 40 i = 1
+N = 37 s = 2
+curIts = 18
+permuations = 58 i = 2
+N = 34 s = 2
+curIts = 16
+permuations = 74 i = 3
+N = 31 s = 2
+curIts = 15
+permuations = 89 i = 4
+N = 28 s = 2
+curIts = 13
+permuations = 102 i = 5
+N = 25 s = 2
+curIts = 12
+permuations = 114 i = 6
+N = 22 s = 2
+curIts = 10
+permuations = 124 i = 7
+N = 19 s = 2
+curIts = 9
+permuations = 133 i = 8
+N = 16 s = 2
+curIts = 7
+permuations = 140 i = 9
+N = 13 s = 2
+curIts = 6
+permuations = 146 i = 10
+N = 10 s = 2
+curIts = 4
+permuations = 150 i = 11
+N = 7 s = 2
+curIts = 3
+permuations = 153 i = 12
+N = 4 s = 2
+curIts = 1
+permuations = 154 i = 13
+permuations = 7559 i = 15
+N = 42 s = 3
+curIts = 13
+N = 39 s = 2
+curIts = 19
+permuations = 19 i = 0
+N = 36 s = 2
+curIts = 17
+permuations = 36 i = 1
+N = 33 s = 2
+curIts = 16
+permuations = 52 i = 2
+N = 30 s = 2
+curIts = 14
+permuations = 66 i = 3
+N = 27 s = 2
+curIts = 13
+permuations = 79 i = 4
+N = 24 s = 2
+curIts = 11
+permuations = 90 i = 5
+N = 21 s = 2
+curIts = 10
+permuations = 100 i = 6
+N = 18 s = 2
+curIts = 8
+permuations = 108 i = 7
+N = 15 s = 2
+curIts = 7
+permuations = 115 i = 8
+N = 12 s = 2
+curIts = 5
+permuations = 120 i = 9
+N = 9 s = 2
+curIts = 4
+permuations = 124 i = 10
+N = 6 s = 2
+curIts = 2
+permuations = 126 i = 11
+N = 3 s = 2
+curIts = 1
+permuations = 127 i = 12
+permuations = 7686 i = 16
+N = 38 s = 3
+curIts = 11
+N = 35 s = 2
+curIts = 17
+permuations = 17 i = 0
+N = 32 s = 2
+curIts = 15
+permuations = 32 i = 1
+N = 29 s = 2
+curIts = 14
+permuations = 46 i = 2
+N = 26 s = 2
+curIts = 12
+permuations = 58 i = 3
+N = 23 s = 2
+curIts = 11
+permuations = 69 i = 4
+N = 20 s = 2
+curIts = 9
+permuations = 78 i = 5
+N = 17 s = 2
+curIts = 8
+permuations = 86 i = 6
+N = 14 s = 2
+curIts = 6
+permuations = 92 i = 7
+N = 11 s = 2
+curIts = 5
+permuations = 97 i = 8
+N = 8 s = 2
+curIts = 3
+permuations = 100 i = 9
+N = 5 s = 2
+curIts = 2
+permuations = 102 i = 10
+permuations = 7788 i = 17
+N = 34 s = 3
+curIts = 10
+N = 31 s = 2
+curIts = 15
+permuations = 15 i = 0
+N = 28 s = 2
+curIts = 13
+permuations = 28 i = 1
+N = 25 s = 2
+curIts = 12
+permuations = 40 i = 2
+N = 22 s = 2
+curIts = 10
+permuations = 50 i = 3
+N = 19 s = 2
+curIts = 9
+permuations = 59 i = 4
+N = 16 s = 2
+curIts = 7
+permuations = 66 i = 5
+N = 13 s = 2
+curIts = 6
+permuations = 72 i = 6
+N = 10 s = 2
+curIts = 4
+permuations = 76 i = 7
+N = 7 s = 2
+curIts = 3
+permuations = 79 i = 8
+N = 4 s = 2
+curIts = 1
+permuations = 80 i = 9
+permuations = 7868 i = 18
+N = 30 s = 3
+curIts = 9
+N = 27 s = 2
+curIts = 13
+permuations = 13 i = 0
+N = 24 s = 2
+curIts = 11
+permuations = 24 i = 1
+N = 21 s = 2
+curIts = 10
+permuations = 34 i = 2
+N = 18 s = 2
+curIts = 8
+permuations = 42 i = 3
+N = 15 s = 2
+curIts = 7
+permuations = 49 i = 4
+N = 12 s = 2
+curIts = 5
+permuations = 54 i = 5
+N = 9 s = 2
+curIts = 4
+permuations = 58 i = 6
+N = 6 s = 2
+curIts = 2
+permuations = 60 i = 7
+N = 3 s = 2
+curIts = 1
+permuations = 61 i = 8
+permuations = 7929 i = 19
+N = 26 s = 3
+curIts = 7
+N = 23 s = 2
+curIts = 11
+permuations = 11 i = 0
+N = 20 s = 2
+curIts = 9
+permuations = 20 i = 1
+N = 17 s = 2
+curIts = 8
+permuations = 28 i = 2
+N = 14 s = 2
+curIts = 6
+permuations = 34 i = 3
+N = 11 s = 2
+curIts = 5
+permuations = 39 i = 4
+N = 8 s = 2
+curIts = 3
+permuations = 42 i = 5
+N = 5 s = 2
+curIts = 2
+permuations = 44 i = 6
+permuations = 7973 i = 20
+N = 22 s = 3
+curIts = 6
+N = 19 s = 2
+curIts = 9
+permuations = 9 i = 0
+N = 16 s = 2
+curIts = 7
+permuations = 16 i = 1
+N = 13 s = 2
+curIts = 6
+permuations = 22 i = 2
+N = 10 s = 2
+curIts = 4
+permuations = 26 i = 3
+N = 7 s = 2
+curIts = 3
+permuations = 29 i = 4
+N = 4 s = 2
+curIts = 1
+permuations = 30 i = 5
+permuations = 8003 i = 21
+N = 18 s = 3
+curIts = 5
+N = 15 s = 2
+curIts = 7
+permuations = 7 i = 0
+N = 12 s = 2
+curIts = 5
+permuations = 12 i = 1
+N = 9 s = 2
+curIts = 4
+permuations = 16 i = 2
+N = 6 s = 2
+curIts = 2
+permuations = 18 i = 3
+N = 3 s = 2
+curIts = 1
+permuations = 19 i = 4
+permuations = 8022 i = 22
+N = 14 s = 3
+curIts = 3
+N = 11 s = 2
+curIts = 5
+permuations = 5 i = 0
+N = 8 s = 2
+curIts = 3
+permuations = 8 i = 1
+N = 5 s = 2
+curIts = 2
+permuations = 10 i = 2
+permuations = 8032 i = 23
+N = 10 s = 3
+curIts = 2
+N = 7 s = 2
+curIts = 3
+permuations = 3 i = 0
+N = 4 s = 2
+curIts = 1
+permuations = 4 i = 1
+permuations = 8036 i = 24
+N = 6 s = 3
+curIts = 1
+N = 3 s = 2
+curIts = 1
+permuations = 1 i = 0
+permuations = 8037 i = 25
+permuations = 438212 i = 17
+N = 105 s = 4
+curIts = 24
+N = 101 s = 3
+curIts = 32
+N = 98 s = 2
+curIts = 48
+permuations = 48 i = 0
+N = 95 s = 2
+curIts = 47
+permuations = 95 i = 1
+N = 92 s = 2
+curIts = 45
+permuations = 140 i = 2
+N = 89 s = 2
+curIts = 44
+permuations = 184 i = 3
+N = 86 s = 2
+curIts = 42
+permuations = 226 i = 4
+N = 83 s = 2
+curIts = 41
+permuations = 267 i = 5
+N = 80 s = 2
+curIts = 39
+permuations = 306 i = 6
+N = 77 s = 2
+curIts = 38
+permuations = 344 i = 7
+N = 74 s = 2
+curIts = 36
+permuations = 380 i = 8
+N = 71 s = 2
+curIts = 35
+permuations = 415 i = 9
+N = 68 s = 2
+curIts = 33
+permuations = 448 i = 10
+N = 65 s = 2
+curIts = 32
+permuations = 480 i = 11
+N = 62 s = 2
+curIts = 30
+permuations = 510 i = 12
+N = 59 s = 2
+curIts = 29
+permuations = 539 i = 13
+N = 56 s = 2
+curIts = 27
+permuations = 566 i = 14
+N = 53 s = 2
+curIts = 26
+permuations = 592 i = 15
+N = 50 s = 2
+curIts = 24
+permuations = 616 i = 16
+N = 47 s = 2
+curIts = 23
+permuations = 639 i = 17
+N = 44 s = 2
+curIts = 21
+permuations = 660 i = 18
+N = 41 s = 2
+curIts = 20
+permuations = 680 i = 19
+N = 38 s = 2
+curIts = 18
+permuations = 698 i = 20
+N = 35 s = 2
+curIts = 17
+permuations = 715 i = 21
+N = 32 s = 2
+curIts = 15
+permuations = 730 i = 22
+N = 29 s = 2
+curIts = 14
+permuations = 744 i = 23
+N = 26 s = 2
+curIts = 12
+permuations = 756 i = 24
+N = 23 s = 2
+curIts = 11
+permuations = 767 i = 25
+N = 20 s = 2
+curIts = 9
+permuations = 776 i = 26
+N = 17 s = 2
+curIts = 8
+permuations = 784 i = 27
+N = 14 s = 2
+curIts = 6
+permuations = 790 i = 28
+N = 11 s = 2
+curIts = 5
+permuations = 795 i = 29
+N = 8 s = 2
+curIts = 3
+permuations = 798 i = 30
+N = 5 s = 2
+curIts = 2
+permuations = 800 i = 31
+permuations = 800 i = 0
+N = 97 s = 3
+curIts = 31
+N = 94 s = 2
+curIts = 46
+permuations = 46 i = 0
+N = 91 s = 2
+curIts = 45
+permuations = 91 i = 1
+N = 88 s = 2
+curIts = 43
+permuations = 134 i = 2
+N = 85 s = 2
+curIts = 42
+permuations = 176 i = 3
+N = 82 s = 2
+curIts = 40
+permuations = 216 i = 4
+N = 79 s = 2
+curIts = 39
+permuations = 255 i = 5
+N = 76 s = 2
+curIts = 37
+permuations = 292 i = 6
+N = 73 s = 2
+curIts = 36
+permuations = 328 i = 7
+N = 70 s = 2
+curIts = 34
+permuations = 362 i = 8
+N = 67 s = 2
+curIts = 33
+permuations = 395 i = 9
+N = 64 s = 2
+curIts = 31
+permuations = 426 i = 10
+N = 61 s = 2
+curIts = 30
+permuations = 456 i = 11
+N = 58 s = 2
+curIts = 28
+permuations = 484 i = 12
+N = 55 s = 2
+curIts = 27
+permuations = 511 i = 13
+N = 52 s = 2
+curIts = 25
+permuations = 536 i = 14
+N = 49 s = 2
+curIts = 24
+permuations = 560 i = 15
+N = 46 s = 2
+curIts = 22
+permuations = 582 i = 16
+N = 43 s = 2
+curIts = 21
+permuations = 603 i = 17
+N = 40 s = 2
+curIts = 19
+permuations = 622 i = 18
+N = 37 s = 2
+curIts = 18
+permuations = 640 i = 19
+N = 34 s = 2
+curIts = 16
+permuations = 656 i = 20
+N = 31 s = 2
+curIts = 15
+permuations = 671 i = 21
+N = 28 s = 2
+curIts = 13
+permuations = 684 i = 22
+N = 25 s = 2
+curIts = 12
+permuations = 696 i = 23
+N = 22 s = 2
+curIts = 10
+permuations = 706 i = 24
+N = 19 s = 2
+curIts = 9
+permuations = 715 i = 25
+N = 16 s = 2
+curIts = 7
+permuations = 722 i = 26
+N = 13 s = 2
+curIts = 6
+permuations = 728 i = 27
+N = 10 s = 2
+curIts = 4
+permuations = 732 i = 28
+N = 7 s = 2
+curIts = 3
+permuations = 735 i = 29
+N = 4 s = 2
+curIts = 1
+permuations = 736 i = 30
+permuations = 1536 i = 1
+N = 93 s = 3
+curIts = 30
+N = 90 s = 2
+curIts = 44
+permuations = 44 i = 0
+N = 87 s = 2
+curIts = 43
+permuations = 87 i = 1
+N = 84 s = 2
+curIts = 41
+permuations = 128 i = 2
+N = 81 s = 2
+curIts = 40
+permuations = 168 i = 3
+N = 78 s = 2
+curIts = 38
+permuations = 206 i = 4
+N = 75 s = 2
+curIts = 37
+permuations = 243 i = 5
+N = 72 s = 2
+curIts = 35
+permuations = 278 i = 6
+N = 69 s = 2
+curIts = 34
+permuations = 312 i = 7
+N = 66 s = 2
+curIts = 32
+permuations = 344 i = 8
+N = 63 s = 2
+curIts = 31
+permuations = 375 i = 9
+N = 60 s = 2
+curIts = 29
+permuations = 404 i = 10
+N = 57 s = 2
+curIts = 28
+permuations = 432 i = 11
+N = 54 s = 2
+curIts = 26
+permuations = 458 i = 12
+N = 51 s = 2
+curIts = 25
+permuations = 483 i = 13
+N = 48 s = 2
+curIts = 23
+permuations = 506 i = 14
+N = 45 s = 2
+curIts = 22
+permuations = 528 i = 15
+N = 42 s = 2
+curIts = 20
+permuations = 548 i = 16
+N = 39 s = 2
+curIts = 19
+permuations = 567 i = 17
+N = 36 s = 2
+curIts = 17
+permuations = 584 i = 18
+N = 33 s = 2
+curIts = 16
+permuations = 600 i = 19
+N = 30 s = 2
+curIts = 14
+permuations = 614 i = 20
+N = 27 s = 2
+curIts = 13
+permuations = 627 i = 21
+N = 24 s = 2
+curIts = 11
+permuations = 638 i = 22
+N = 21 s = 2
+curIts = 10
+permuations = 648 i = 23
+N = 18 s = 2
+curIts = 8
+permuations = 656 i = 24
+N = 15 s = 2
+curIts = 7
+permuations = 663 i = 25
+N = 12 s = 2
+curIts = 5
+permuations = 668 i = 26
+N = 9 s = 2
+curIts = 4
+permuations = 672 i = 27
+N = 6 s = 2
+curIts = 2
+permuations = 674 i = 28
+N = 3 s = 2
+curIts = 1
+permuations = 675 i = 29
+permuations = 2211 i = 2
+N = 89 s = 3
+curIts = 28
+N = 86 s = 2
+curIts = 42
+permuations = 42 i = 0
+N = 83 s = 2
+curIts = 41
+permuations = 83 i = 1
+N = 80 s = 2
+curIts = 39
+permuations = 122 i = 2
+N = 77 s = 2
+curIts = 38
+permuations = 160 i = 3
+N = 74 s = 2
+curIts = 36
+permuations = 196 i = 4
+N = 71 s = 2
+curIts = 35
+permuations = 231 i = 5
+N = 68 s = 2
+curIts = 33
+permuations = 264 i = 6
+N = 65 s = 2
+curIts = 32
+permuations = 296 i = 7
+N = 62 s = 2
+curIts = 30
+permuations = 326 i = 8
+N = 59 s = 2
+curIts = 29
+permuations = 355 i = 9
+N = 56 s = 2
+curIts = 27
+permuations = 382 i = 10
+N = 53 s = 2
+curIts = 26
+permuations = 408 i = 11
+N = 50 s = 2
+curIts = 24
+permuations = 432 i = 12
+N = 47 s = 2
+curIts = 23
+permuations = 455 i = 13
+N = 44 s = 2
+curIts = 21
+permuations = 476 i = 14
+N = 41 s = 2
+curIts = 20
+permuations = 496 i = 15
+N = 38 s = 2
+curIts = 18
+permuations = 514 i = 16
+N = 35 s = 2
+curIts = 17
+permuations = 531 i = 17
+N = 32 s = 2
+curIts = 15
+permuations = 546 i = 18
+N = 29 s = 2
+curIts = 14
+permuations = 560 i = 19
+N = 26 s = 2
+curIts = 12
+permuations = 572 i = 20
+N = 23 s = 2
+curIts = 11
+permuations = 583 i = 21
+N = 20 s = 2
+curIts = 9
+permuations = 592 i = 22
+N = 17 s = 2
+curIts = 8
+permuations = 600 i = 23
+N = 14 s = 2
+curIts = 6
+permuations = 606 i = 24
+N = 11 s = 2
+curIts = 5
+permuations = 611 i = 25
+N = 8 s = 2
+curIts = 3
+permuations = 614 i = 26
+N = 5 s = 2
+curIts = 2
+permuations = 616 i = 27
+permuations = 2827 i = 3
+N = 85 s = 3
+curIts = 27
+N = 82 s = 2
+curIts = 40
+permuations = 40 i = 0
+N = 79 s = 2
+curIts = 39
+permuations = 79 i = 1
+N = 76 s = 2
+curIts = 37
+permuations = 116 i = 2
+N = 73 s = 2
+curIts = 36
+permuations = 152 i = 3
+N = 70 s = 2
+curIts = 34
+permuations = 186 i = 4
+N = 67 s = 2
+curIts = 33
+permuations = 219 i = 5
+N = 64 s = 2
+curIts = 31
+permuations = 250 i = 6
+N = 61 s = 2
+curIts = 30
+permuations = 280 i = 7
+N = 58 s = 2
+curIts = 28
+permuations = 308 i = 8
+N = 55 s = 2
+curIts = 27
+permuations = 335 i = 9
+N = 52 s = 2
+curIts = 25
+permuations = 360 i = 10
+N = 49 s = 2
+curIts = 24
+permuations = 384 i = 11
+N = 46 s = 2
+curIts = 22
+permuations = 406 i = 12
+N = 43 s = 2
+curIts = 21
+permuations = 427 i = 13
+N = 40 s = 2
+curIts = 19
+permuations = 446 i = 14
+N = 37 s = 2
+curIts = 18
+permuations = 464 i = 15
+N = 34 s = 2
+curIts = 16
+permuations = 480 i = 16
+N = 31 s = 2
+curIts = 15
+permuations = 495 i = 17
+N = 28 s = 2
+curIts = 13
+permuations = 508 i = 18
+N = 25 s = 2
+curIts = 12
+permuations = 520 i = 19
+N = 22 s = 2
+curIts = 10
+permuations = 530 i = 20
+N = 19 s = 2
+curIts = 9
+permuations = 539 i = 21
+N = 16 s = 2
+curIts = 7
+permuations = 546 i = 22
+N = 13 s = 2
+curIts = 6
+permuations = 552 i = 23
+N = 10 s = 2
+curIts = 4
+permuations = 556 i = 24
+N = 7 s = 2
+curIts = 3
+permuations = 559 i = 25
+N = 4 s = 2
+curIts = 1
+permuations = 560 i = 26
+permuations = 3387 i = 4
+N = 81 s = 3
+curIts = 26
+N = 78 s = 2
+curIts = 38
+permuations = 38 i = 0
+N = 75 s = 2
+curIts = 37
+permuations = 75 i = 1
+N = 72 s = 2
+curIts = 35
+permuations = 110 i = 2
+N = 69 s = 2
+curIts = 34
+permuations = 144 i = 3
+N = 66 s = 2
+curIts = 32
+permuations = 176 i = 4
+N = 63 s = 2
+curIts = 31
+permuations = 207 i = 5
+N = 60 s = 2
+curIts = 29
+permuations = 236 i = 6
+N = 57 s = 2
+curIts = 28
+permuations = 264 i = 7
+N = 54 s = 2
+curIts = 26
+permuations = 290 i = 8
+N = 51 s = 2
+curIts = 25
+permuations = 315 i = 9
+N = 48 s = 2
+curIts = 23
+permuations = 338 i = 10
+N = 45 s = 2
+curIts = 22
+permuations = 360 i = 11
+N = 42 s = 2
+curIts = 20
+permuations = 380 i = 12
+N = 39 s = 2
+curIts = 19
+permuations = 399 i = 13
+N = 36 s = 2
+curIts = 17
+permuations = 416 i = 14
+N = 33 s = 2
+curIts = 16
+permuations = 432 i = 15
+N = 30 s = 2
+curIts = 14
+permuations = 446 i = 16
+N = 27 s = 2
+curIts = 13
+permuations = 459 i = 17
+N = 24 s = 2
+curIts = 11
+permuations = 470 i = 18
+N = 21 s = 2
+curIts = 10
+permuations = 480 i = 19
+N = 18 s = 2
+curIts = 8
+permuations = 488 i = 20
+N = 15 s = 2
+curIts = 7
+permuations = 495 i = 21
+N = 12 s = 2
+curIts = 5
+permuations = 500 i = 22
+N = 9 s = 2
+curIts = 4
+permuations = 504 i = 23
+N = 6 s = 2
+curIts = 2
+permuations = 506 i = 24
+N = 3 s = 2
+curIts = 1
+permuations = 507 i = 25
+permuations = 3894 i = 5
+N = 77 s = 3
+curIts = 24
+N = 74 s = 2
+curIts = 36
+permuations = 36 i = 0
+N = 71 s = 2
+curIts = 35
+permuations = 71 i = 1
+N = 68 s = 2
+curIts = 33
+permuations = 104 i = 2
+N = 65 s = 2
+curIts = 32
+permuations = 136 i = 3
+N = 62 s = 2
+curIts = 30
+permuations = 166 i = 4
+N = 59 s = 2
+curIts = 29
+permuations = 195 i = 5
+N = 56 s = 2
+curIts = 27
+permuations = 222 i = 6
+N = 53 s = 2
+curIts = 26
+permuations = 248 i = 7
+N = 50 s = 2
+curIts = 24
+permuations = 272 i = 8
+N = 47 s = 2
+curIts = 23
+permuations = 295 i = 9
+N = 44 s = 2
+curIts = 21
+permuations = 316 i = 10
+N = 41 s = 2
+curIts = 20
+permuations = 336 i = 11
+N = 38 s = 2
+curIts = 18
+permuations = 354 i = 12
+N = 35 s = 2
+curIts = 17
+permuations = 371 i = 13
+N = 32 s = 2
+curIts = 15
+permuations = 386 i = 14
+N = 29 s = 2
+curIts = 14
+permuations = 400 i = 15
+N = 26 s = 2
+curIts = 12
+permuations = 412 i = 16
+N = 23 s = 2
+curIts = 11
+permuations = 423 i = 17
+N = 20 s = 2
+curIts = 9
+permuations = 432 i = 18
+N = 17 s = 2
+curIts = 8
+permuations = 440 i = 19
+N = 14 s = 2
+curIts = 6
+permuations = 446 i = 20
+N = 11 s = 2
+curIts = 5
+permuations = 451 i = 21
+N = 8 s = 2
+curIts = 3
+permuations = 454 i = 22
+N = 5 s = 2
+curIts = 2
+permuations = 456 i = 23
+permuations = 4350 i = 6
+N = 73 s = 3
+curIts = 23
+N = 70 s = 2
+curIts = 34
+permuations = 34 i = 0
+N = 67 s = 2
+curIts = 33
+permuations = 67 i = 1
+N = 64 s = 2
+curIts = 31
+permuations = 98 i = 2
+N = 61 s = 2
+curIts = 30
+permuations = 128 i = 3
+N = 58 s = 2
+curIts = 28
+permuations = 156 i = 4
+N = 55 s = 2
+curIts = 27
+permuations = 183 i = 5
+N = 52 s = 2
+curIts = 25
+permuations = 208 i = 6
+N = 49 s = 2
+curIts = 24
+permuations = 232 i = 7
+N = 46 s = 2
+curIts = 22
+permuations = 254 i = 8
+N = 43 s = 2
+curIts = 21
+permuations = 275 i = 9
+N = 40 s = 2
+curIts = 19
+permuations = 294 i = 10
+N = 37 s = 2
+curIts = 18
+permuations = 312 i = 11
+N = 34 s = 2
+curIts = 16
+permuations = 328 i = 12
+N = 31 s = 2
+curIts = 15
+permuations = 343 i = 13
+N = 28 s = 2
+curIts = 13
+permuations = 356 i = 14
+N = 25 s = 2
+curIts = 12
+permuations = 368 i = 15
+N = 22 s = 2
+curIts = 10
+permuations = 378 i = 16
+N = 19 s = 2
+curIts = 9
+permuations = 387 i = 17
+N = 16 s = 2
+curIts = 7
+permuations = 394 i = 18
+N = 13 s = 2
+curIts = 6
+permuations = 400 i = 19
+N = 10 s = 2
+curIts = 4
+permuations = 404 i = 20
+N = 7 s = 2
+curIts = 3
+permuations = 407 i = 21
+N = 4 s = 2
+curIts = 1
+permuations = 408 i = 22
+permuations = 4758 i = 7
+N = 69 s = 3
+curIts = 22
+N = 66 s = 2
+curIts = 32
+permuations = 32 i = 0
+N = 63 s = 2
+curIts = 31
+permuations = 63 i = 1
+N = 60 s = 2
+curIts = 29
+permuations = 92 i = 2
+N = 57 s = 2
+curIts = 28
+permuations = 120 i = 3
+N = 54 s = 2
+curIts = 26
+permuations = 146 i = 4
+N = 51 s = 2
+curIts = 25
+permuations = 171 i = 5
+N = 48 s = 2
+curIts = 23
+permuations = 194 i = 6
+N = 45 s = 2
+curIts = 22
+permuations = 216 i = 7
+N = 42 s = 2
+curIts = 20
+permuations = 236 i = 8
+N = 39 s = 2
+curIts = 19
+permuations = 255 i = 9
+N = 36 s = 2
+curIts = 17
+permuations = 272 i = 10
+N = 33 s = 2
+curIts = 16
+permuations = 288 i = 11
+N = 30 s = 2
+curIts = 14
+permuations = 302 i = 12
+N = 27 s = 2
+curIts = 13
+permuations = 315 i = 13
+N = 24 s = 2
+curIts = 11
+permuations = 326 i = 14
+N = 21 s = 2
+curIts = 10
+permuations = 336 i = 15
+N = 18 s = 2
+curIts = 8
+permuations = 344 i = 16
+N = 15 s = 2
+curIts = 7
+permuations = 351 i = 17
+N = 12 s = 2
+curIts = 5
+permuations = 356 i = 18
+N = 9 s = 2
+curIts = 4
+permuations = 360 i = 19
+N = 6 s = 2
+curIts = 2
+permuations = 362 i = 20
+N = 3 s = 2
+curIts = 1
+permuations = 363 i = 21
+permuations = 5121 i = 8
+N = 65 s = 3
+curIts = 20
+N = 62 s = 2
+curIts = 30
+permuations = 30 i = 0
+N = 59 s = 2
+curIts = 29
+permuations = 59 i = 1
+N = 56 s = 2
+curIts = 27
+permuations = 86 i = 2
+N = 53 s = 2
+curIts = 26
+permuations = 112 i = 3
+N = 50 s = 2
+curIts = 24
+permuations = 136 i = 4
+N = 47 s = 2
+curIts = 23
+permuations = 159 i = 5
+N = 44 s = 2
+curIts = 21
+permuations = 180 i = 6
+N = 41 s = 2
+curIts = 20
+permuations = 200 i = 7
+N = 38 s = 2
+curIts = 18
+permuations = 218 i = 8
+N = 35 s = 2
+curIts = 17
+permuations = 235 i = 9
+N = 32 s = 2
+curIts = 15
+permuations = 250 i = 10
+N = 29 s = 2
+curIts = 14
+permuations = 264 i = 11
+N = 26 s = 2
+curIts = 12
+permuations = 276 i = 12
+N = 23 s = 2
+curIts = 11
+permuations = 287 i = 13
+N = 20 s = 2
+curIts = 9
+permuations = 296 i = 14
+N = 17 s = 2
+curIts = 8
+permuations = 304 i = 15
+N = 14 s = 2
+curIts = 6
+permuations = 310 i = 16
+N = 11 s = 2
+curIts = 5
+permuations = 315 i = 17
+N = 8 s = 2
+curIts = 3
+permuations = 318 i = 18
+N = 5 s = 2
+curIts = 2
+permuations = 320 i = 19
+permuations = 5441 i = 9
+N = 61 s = 3
+curIts = 19
+N = 58 s = 2
+curIts = 28
+permuations = 28 i = 0
+N = 55 s = 2
+curIts = 27
+permuations = 55 i = 1
+N = 52 s = 2
+curIts = 25
+permuations = 80 i = 2
+N = 49 s = 2
+curIts = 24
+permuations = 104 i = 3
+N = 46 s = 2
+curIts = 22
+permuations = 126 i = 4
+N = 43 s = 2
+curIts = 21
+permuations = 147 i = 5
+N = 40 s = 2
+curIts = 19
+permuations = 166 i = 6
+N = 37 s = 2
+curIts = 18
+permuations = 184 i = 7
+N = 34 s = 2
+curIts = 16
+permuations = 200 i = 8
+N = 31 s = 2
+curIts = 15
+permuations = 215 i = 9
+N = 28 s = 2
+curIts = 13
+permuations = 228 i = 10
+N = 25 s = 2
+curIts = 12
+permuations = 240 i = 11
+N = 22 s = 2
+curIts = 10
+permuations = 250 i = 12
+N = 19 s = 2
+curIts = 9
+permuations = 259 i = 13
+N = 16 s = 2
+curIts = 7
+permuations = 266 i = 14
+N = 13 s = 2
+curIts = 6
+permuations = 272 i = 15
+N = 10 s = 2
+curIts = 4
+permuations = 276 i = 16
+N = 7 s = 2
+curIts = 3
+permuations = 279 i = 17
+N = 4 s = 2
+curIts = 1
+permuations = 280 i = 18
+permuations = 5721 i = 10
+N = 57 s = 3
+curIts = 18
+N = 54 s = 2
+curIts = 26
+permuations = 26 i = 0
+N = 51 s = 2
+curIts = 25
+permuations = 51 i = 1
+N = 48 s = 2
+curIts = 23
+permuations = 74 i = 2
+N = 45 s = 2
+curIts = 22
+permuations = 96 i = 3
+N = 42 s = 2
+curIts = 20
+permuations = 116 i = 4
+N = 39 s = 2
+curIts = 19
+permuations = 135 i = 5
+N = 36 s = 2
+curIts = 17
+permuations = 152 i = 6
+N = 33 s = 2
+curIts = 16
+permuations = 168 i = 7
+N = 30 s = 2
+curIts = 14
+permuations = 182 i = 8
+N = 27 s = 2
+curIts = 13
+permuations = 195 i = 9
+N = 24 s = 2
+curIts = 11
+permuations = 206 i = 10
+N = 21 s = 2
+curIts = 10
+permuations = 216 i = 11
+N = 18 s = 2
+curIts = 8
+permuations = 224 i = 12
+N = 15 s = 2
+curIts = 7
+permuations = 231 i = 13
+N = 12 s = 2
+curIts = 5
+permuations = 236 i = 14
+N = 9 s = 2
+curIts = 4
+permuations = 240 i = 15
+N = 6 s = 2
+curIts = 2
+permuations = 242 i = 16
+N = 3 s = 2
+curIts = 1
+permuations = 243 i = 17
+permuations = 5964 i = 11
+N = 53 s = 3
+curIts = 16
+N = 50 s = 2
+curIts = 24
+permuations = 24 i = 0
+N = 47 s = 2
+curIts = 23
+permuations = 47 i = 1
+N = 44 s = 2
+curIts = 21
+permuations = 68 i = 2
+N = 41 s = 2
+curIts = 20
+permuations = 88 i = 3
+N = 38 s = 2
+curIts = 18
+permuations = 106 i = 4
+N = 35 s = 2
+curIts = 17
+permuations = 123 i = 5
+N = 32 s = 2
+curIts = 15
+permuations = 138 i = 6
+N = 29 s = 2
+curIts = 14
+permuations = 152 i = 7
+N = 26 s = 2
+curIts = 12
+permuations = 164 i = 8
+N = 23 s = 2
+curIts = 11
+permuations = 175 i = 9
+N = 20 s = 2
+curIts = 9
+permuations = 184 i = 10
+N = 17 s = 2
+curIts = 8
+permuations = 192 i = 11
+N = 14 s = 2
+curIts = 6
+permuations = 198 i = 12
+N = 11 s = 2
+curIts = 5
+permuations = 203 i = 13
+N = 8 s = 2
+curIts = 3
+permuations = 206 i = 14
+N = 5 s = 2
+curIts = 2
+permuations = 208 i = 15
+permuations = 6172 i = 12
+N = 49 s = 3
+curIts = 15
+N = 46 s = 2
+curIts = 22
+permuations = 22 i = 0
+N = 43 s = 2
+curIts = 21
+permuations = 43 i = 1
+N = 40 s = 2
+curIts = 19
+permuations = 62 i = 2
+N = 37 s = 2
+curIts = 18
+permuations = 80 i = 3
+N = 34 s = 2
+curIts = 16
+permuations = 96 i = 4
+N = 31 s = 2
+curIts = 15
+permuations = 111 i = 5
+N = 28 s = 2
+curIts = 13
+permuations = 124 i = 6
+N = 25 s = 2
+curIts = 12
+permuations = 136 i = 7
+N = 22 s = 2
+curIts = 10
+permuations = 146 i = 8
+N = 19 s = 2
+curIts = 9
+permuations = 155 i = 9
+N = 16 s = 2
+curIts = 7
+permuations = 162 i = 10
+N = 13 s = 2
+curIts = 6
+permuations = 168 i = 11
+N = 10 s = 2
+curIts = 4
+permuations = 172 i = 12
+N = 7 s = 2
+curIts = 3
+permuations = 175 i = 13
+N = 4 s = 2
+curIts = 1
+permuations = 176 i = 14
+permuations = 6348 i = 13
+N = 45 s = 3
+curIts = 14
+N = 42 s = 2
+curIts = 20
+permuations = 20 i = 0
+N = 39 s = 2
+curIts = 19
+permuations = 39 i = 1
+N = 36 s = 2
+curIts = 17
+permuations = 56 i = 2
+N = 33 s = 2
+curIts = 16
+permuations = 72 i = 3
+N = 30 s = 2
+curIts = 14
+permuations = 86 i = 4
+N = 27 s = 2
+curIts = 13
+permuations = 99 i = 5
+N = 24 s = 2
+curIts = 11
+permuations = 110 i = 6
+N = 21 s = 2
+curIts = 10
+permuations = 120 i = 7
+N = 18 s = 2
+curIts = 8
+permuations = 128 i = 8
+N = 15 s = 2
+curIts = 7
+permuations = 135 i = 9
+N = 12 s = 2
+curIts = 5
+permuations = 140 i = 10
+N = 9 s = 2
+curIts = 4
+permuations = 144 i = 11
+N = 6 s = 2
+curIts = 2
+permuations = 146 i = 12
+N = 3 s = 2
+curIts = 1
+permuations = 147 i = 13
+permuations = 6495 i = 14
+N = 41 s = 3
+curIts = 12
+N = 38 s = 2
+curIts = 18
+permuations = 18 i = 0
+N = 35 s = 2
+curIts = 17
+permuations = 35 i = 1
+N = 32 s = 2
+curIts = 15
+permuations = 50 i = 2
+N = 29 s = 2
+curIts = 14
+permuations = 64 i = 3
+N = 26 s = 2
+curIts = 12
+permuations = 76 i = 4
+N = 23 s = 2
+curIts = 11
+permuations = 87 i = 5
+N = 20 s = 2
+curIts = 9
+permuations = 96 i = 6
+N = 17 s = 2
+curIts = 8
+permuations = 104 i = 7
+N = 14 s = 2
+curIts = 6
+permuations = 110 i = 8
+N = 11 s = 2
+curIts = 5
+permuations = 115 i = 9
+N = 8 s = 2
+curIts = 3
+permuations = 118 i = 10
+N = 5 s = 2
+curIts = 2
+permuations = 120 i = 11
+permuations = 6615 i = 15
+N = 37 s = 3
+curIts = 11
+N = 34 s = 2
+curIts = 16
+permuations = 16 i = 0
+N = 31 s = 2
+curIts = 15
+permuations = 31 i = 1
+N = 28 s = 2
+curIts = 13
+permuations = 44 i = 2
+N = 25 s = 2
+curIts = 12
+permuations = 56 i = 3
+N = 22 s = 2
+curIts = 10
+permuations = 66 i = 4
+N = 19 s = 2
+curIts = 9
+permuations = 75 i = 5
+N = 16 s = 2
+curIts = 7
+permuations = 82 i = 6
+N = 13 s = 2
+curIts = 6
+permuations = 88 i = 7
+N = 10 s = 2
+curIts = 4
+permuations = 92 i = 8
+N = 7 s = 2
+curIts = 3
+permuations = 95 i = 9
+N = 4 s = 2
+curIts = 1
+permuations = 96 i = 10
+permuations = 6711 i = 16
+N = 33 s = 3
+curIts = 10
+N = 30 s = 2
+curIts = 14
+permuations = 14 i = 0
+N = 27 s = 2
+curIts = 13
+permuations = 27 i = 1
+N = 24 s = 2
+curIts = 11
+permuations = 38 i = 2
+N = 21 s = 2
+curIts = 10
+permuations = 48 i = 3
+N = 18 s = 2
+curIts = 8
+permuations = 56 i = 4
+N = 15 s = 2
+curIts = 7
+permuations = 63 i = 5
+N = 12 s = 2
+curIts = 5
+permuations = 68 i = 6
+N = 9 s = 2
+curIts = 4
+permuations = 72 i = 7
+N = 6 s = 2
+curIts = 2
+permuations = 74 i = 8
+N = 3 s = 2
+curIts = 1
+permuations = 75 i = 9
+permuations = 6786 i = 17
+N = 29 s = 3
+curIts = 8
+N = 26 s = 2
+curIts = 12
+permuations = 12 i = 0
+N = 23 s = 2
+curIts = 11
+permuations = 23 i = 1
+N = 20 s = 2
+curIts = 9
+permuations = 32 i = 2
+N = 17 s = 2
+curIts = 8
+permuations = 40 i = 3
+N = 14 s = 2
+curIts = 6
+permuations = 46 i = 4
+N = 11 s = 2
+curIts = 5
+permuations = 51 i = 5
+N = 8 s = 2
+curIts = 3
+permuations = 54 i = 6
+N = 5 s = 2
+curIts = 2
+permuations = 56 i = 7
+permuations = 6842 i = 18
+N = 25 s = 3
+curIts = 7
+N = 22 s = 2
+curIts = 10
+permuations = 10 i = 0
+N = 19 s = 2
+curIts = 9
+permuations = 19 i = 1
+N = 16 s = 2
+curIts = 7
+permuations = 26 i = 2
+N = 13 s = 2
+curIts = 6
+permuations = 32 i = 3
+N = 10 s = 2
+curIts = 4
+permuations = 36 i = 4
+N = 7 s = 2
+curIts = 3
+permuations = 39 i = 5
+N = 4 s = 2
+curIts = 1
+permuations = 40 i = 6
+permuations = 6882 i = 19
+N = 21 s = 3
+curIts = 6
+N = 18 s = 2
+curIts = 8
+permuations = 8 i = 0
+N = 15 s = 2
+curIts = 7
+permuations = 15 i = 1
+N = 12 s = 2
+curIts = 5
+permuations = 20 i = 2
+N = 9 s = 2
+curIts = 4
+permuations = 24 i = 3
+N = 6 s = 2
+curIts = 2
+permuations = 26 i = 4
+N = 3 s = 2
+curIts = 1
+permuations = 27 i = 5
+permuations = 6909 i = 20
+N = 17 s = 3
+curIts = 4
+N = 14 s = 2
+curIts = 6
+permuations = 6 i = 0
+N = 11 s = 2
+curIts = 5
+permuations = 11 i = 1
+N = 8 s = 2
+curIts = 3
+permuations = 14 i = 2
+N = 5 s = 2
+curIts = 2
+permuations = 16 i = 3
+permuations = 6925 i = 21
+N = 13 s = 3
+curIts = 3
+N = 10 s = 2
+curIts = 4
+permuations = 4 i = 0
+N = 7 s = 2
+curIts = 3
+permuations = 7 i = 1
+N = 4 s = 2
+curIts = 1
+permuations = 8 i = 2
+permuations = 6933 i = 22
+N = 9 s = 3
+curIts = 2
+N = 6 s = 2
+curIts = 2
+permuations = 2 i = 0
+N = 3 s = 2
+curIts = 1
+permuations = 3 i = 1
+permuations = 6936 i = 23
+permuations = 445148 i = 18
+N = 100 s = 4
+curIts = 23
+N = 96 s = 3
+curIts = 31
+N = 93 s = 2
+curIts = 46
+permuations = 46 i = 0
+N = 90 s = 2
+curIts = 44
+permuations = 90 i = 1
+N = 87 s = 2
+curIts = 43
+permuations = 133 i = 2
+N = 84 s = 2
+curIts = 41
+permuations = 174 i = 3
+N = 81 s = 2
+curIts = 40
+permuations = 214 i = 4
+N = 78 s = 2
+curIts = 38
+permuations = 252 i = 5
+N = 75 s = 2
+curIts = 37
+permuations = 289 i = 6
+N = 72 s = 2
+curIts = 35
+permuations = 324 i = 7
+N = 69 s = 2
+curIts = 34
+permuations = 358 i = 8
+N = 66 s = 2
+curIts = 32
+permuations = 390 i = 9
+N = 63 s = 2
+curIts = 31
+permuations = 421 i = 10
+N = 60 s = 2
+curIts = 29
+permuations = 450 i = 11
+N = 57 s = 2
+curIts = 28
+permuations = 478 i = 12
+N = 54 s = 2
+curIts = 26
+permuations = 504 i = 13
+N = 51 s = 2
+curIts = 25
+permuations = 529 i = 14
+N = 48 s = 2
+curIts = 23
+permuations = 552 i = 15
+N = 45 s = 2
+curIts = 22
+permuations = 574 i = 16
+N = 42 s = 2
+curIts = 20
+permuations = 594 i = 17
+N = 39 s = 2
+curIts = 19
+permuations = 613 i = 18
+N = 36 s = 2
+curIts = 17
+permuations = 630 i = 19
+N = 33 s = 2
+curIts = 16
+permuations = 646 i = 20
+N = 30 s = 2
+curIts = 14
+permuations = 660 i = 21
+N = 27 s = 2
+curIts = 13
+permuations = 673 i = 22
+N = 24 s = 2
+curIts = 11
+permuations = 684 i = 23
+N = 21 s = 2
+curIts = 10
+permuations = 694 i = 24
+N = 18 s = 2
+curIts = 8
+permuations = 702 i = 25
+N = 15 s = 2
+curIts = 7
+permuations = 709 i = 26
+N = 12 s = 2
+curIts = 5
+permuations = 714 i = 27
+N = 9 s = 2
+curIts = 4
+permuations = 718 i = 28
+N = 6 s = 2
+curIts = 2
+permuations = 720 i = 29
+N = 3 s = 2
+curIts = 1
+permuations = 721 i = 30
+permuations = 721 i = 0
+N = 92 s = 3
+curIts = 29
+N = 89 s = 2
+curIts = 44
+permuations = 44 i = 0
+N = 86 s = 2
+curIts = 42
+permuations = 86 i = 1
+N = 83 s = 2
+curIts = 41
+permuations = 127 i = 2
+N = 80 s = 2
+curIts = 39
+permuations = 166 i = 3
+N = 77 s = 2
+curIts = 38
+permuations = 204 i = 4
+N = 74 s = 2
+curIts = 36
+permuations = 240 i = 5
+N = 71 s = 2
+curIts = 35
+permuations = 275 i = 6
+N = 68 s = 2
+curIts = 33
+permuations = 308 i = 7
+N = 65 s = 2
+curIts = 32
+permuations = 340 i = 8
+N = 62 s = 2
+curIts = 30
+permuations = 370 i = 9
+N = 59 s = 2
+curIts = 29
+permuations = 399 i = 10
+N = 56 s = 2
+curIts = 27
+permuations = 426 i = 11
+N = 53 s = 2
+curIts = 26
+permuations = 452 i = 12
+N = 50 s = 2
+curIts = 24
+permuations = 476 i = 13
+N = 47 s = 2
+curIts = 23
+permuations = 499 i = 14
+N = 44 s = 2
+curIts = 21
+permuations = 520 i = 15
+N = 41 s = 2
+curIts = 20
+permuations = 540 i = 16
+N = 38 s = 2
+curIts = 18
+permuations = 558 i = 17
+N = 35 s = 2
+curIts = 17
+permuations = 575 i = 18
+N = 32 s = 2
+curIts = 15
+permuations = 590 i = 19
+N = 29 s = 2
+curIts = 14
+permuations = 604 i = 20
+N = 26 s = 2
+curIts = 12
+permuations = 616 i = 21
+N = 23 s = 2
+curIts = 11
+permuations = 627 i = 22
+N = 20 s = 2
+curIts = 9
+permuations = 636 i = 23
+N = 17 s = 2
+curIts = 8
+permuations = 644 i = 24
+N = 14 s = 2
+curIts = 6
+permuations = 650 i = 25
+N = 11 s = 2
+curIts = 5
+permuations = 655 i = 26
+N = 8 s = 2
+curIts = 3
+permuations = 658 i = 27
+N = 5 s = 2
+curIts = 2
+permuations = 660 i = 28
+permuations = 1381 i = 1
+N = 88 s = 3
+curIts = 28
+N = 85 s = 2
+curIts = 42
+permuations = 42 i = 0
+N = 82 s = 2
+curIts = 40
+permuations = 82 i = 1
+N = 79 s = 2
+curIts = 39
+permuations = 121 i = 2
+N = 76 s = 2
+curIts = 37
+permuations = 158 i = 3
+N = 73 s = 2
+curIts = 36
+permuations = 194 i = 4
+N = 70 s = 2
+curIts = 34
+permuations = 228 i = 5
+N = 67 s = 2
+curIts = 33
+permuations = 261 i = 6
+N = 64 s = 2
+curIts = 31
+permuations = 292 i = 7
+N = 61 s = 2
+curIts = 30
+permuations = 322 i = 8
+N = 58 s = 2
+curIts = 28
+permuations = 350 i = 9
+N = 55 s = 2
+curIts = 27
+permuations = 377 i = 10
+N = 52 s = 2
+curIts = 25
+permuations = 402 i = 11
+N = 49 s = 2
+curIts = 24
+permuations = 426 i = 12
+N = 46 s = 2
+curIts = 22
+permuations = 448 i = 13
+N = 43 s = 2
+curIts = 21
+permuations = 469 i = 14
+N = 40 s = 2
+curIts = 19
+permuations = 488 i = 15
+N = 37 s = 2
+curIts = 18
+permuations = 506 i = 16
+N = 34 s = 2
+curIts = 16
+permuations = 522 i = 17
+N = 31 s = 2
+curIts = 15
+permuations = 537 i = 18
+N = 28 s = 2
+curIts = 13
+permuations = 550 i = 19
+N = 25 s = 2
+curIts = 12
+permuations = 562 i = 20
+N = 22 s = 2
+curIts = 10
+permuations = 572 i = 21
+N = 19 s = 2
+curIts = 9
+permuations = 581 i = 22
+N = 16 s = 2
+curIts = 7
+permuations = 588 i = 23
+N = 13 s = 2
+curIts = 6
+permuations = 594 i = 24
+N = 10 s = 2
+curIts = 4
+permuations = 598 i = 25
+N = 7 s = 2
+curIts = 3
+permuations = 601 i = 26
+N = 4 s = 2
+curIts = 1
+permuations = 602 i = 27
+permuations = 1983 i = 2
+N = 84 s = 3
+curIts = 27
+N = 81 s = 2
+curIts = 40
+permuations = 40 i = 0
+N = 78 s = 2
+curIts = 38
+permuations = 78 i = 1
+N = 75 s = 2
+curIts = 37
+permuations = 115 i = 2
+N = 72 s = 2
+curIts = 35
+permuations = 150 i = 3
+N = 69 s = 2
+curIts = 34
+permuations = 184 i = 4
+N = 66 s = 2
+curIts = 32
+permuations = 216 i = 5
+N = 63 s = 2
+curIts = 31
+permuations = 247 i = 6
+N = 60 s = 2
+curIts = 29
+permuations = 276 i = 7
+N = 57 s = 2
+curIts = 28
+permuations = 304 i = 8
+N = 54 s = 2
+curIts = 26
+permuations = 330 i = 9
+N = 51 s = 2
+curIts = 25
+permuations = 355 i = 10
+N = 48 s = 2
+curIts = 23
+permuations = 378 i = 11
+N = 45 s = 2
+curIts = 22
+permuations = 400 i = 12
+N = 42 s = 2
+curIts = 20
+permuations = 420 i = 13
+N = 39 s = 2
+curIts = 19
+permuations = 439 i = 14
+N = 36 s = 2
+curIts = 17
+permuations = 456 i = 15
+N = 33 s = 2
+curIts = 16
+permuations = 472 i = 16
+N = 30 s = 2
+curIts = 14
+permuations = 486 i = 17
+N = 27 s = 2
+curIts = 13
+permuations = 499 i = 18
+N = 24 s = 2
+curIts = 11
+permuations = 510 i = 19
+N = 21 s = 2
+curIts = 10
+permuations = 520 i = 20
+N = 18 s = 2
+curIts = 8
+permuations = 528 i = 21
+N = 15 s = 2
+curIts = 7
+permuations = 535 i = 22
+N = 12 s = 2
+curIts = 5
+permuations = 540 i = 23
+N = 9 s = 2
+curIts = 4
+permuations = 544 i = 24
+N = 6 s = 2
+curIts = 2
+permuations = 546 i = 25
+N = 3 s = 2
+curIts = 1
+permuations = 547 i = 26
+permuations = 2530 i = 3
+N = 80 s = 3
+curIts = 25
+N = 77 s = 2
+curIts = 38
+permuations = 38 i = 0
+N = 74 s = 2
+curIts = 36
+permuations = 74 i = 1
+N = 71 s = 2
+curIts = 35
+permuations = 109 i = 2
+N = 68 s = 2
+curIts = 33
+permuations = 142 i = 3
+N = 65 s = 2
+curIts = 32
+permuations = 174 i = 4
+N = 62 s = 2
+curIts = 30
+permuations = 204 i = 5
+N = 59 s = 2
+curIts = 29
+permuations = 233 i = 6
+N = 56 s = 2
+curIts = 27
+permuations = 260 i = 7
+N = 53 s = 2
+curIts = 26
+permuations = 286 i = 8
+N = 50 s = 2
+curIts = 24
+permuations = 310 i = 9
+N = 47 s = 2
+curIts = 23
+permuations = 333 i = 10
+N = 44 s = 2
+curIts = 21
+permuations = 354 i = 11
+N = 41 s = 2
+curIts = 20
+permuations = 374 i = 12
+N = 38 s = 2
+curIts = 18
+permuations = 392 i = 13
+N = 35 s = 2
+curIts = 17
+permuations = 409 i = 14
+N = 32 s = 2
+curIts = 15
+permuations = 424 i = 15
+N = 29 s = 2
+curIts = 14
+permuations = 438 i = 16
+N = 26 s = 2
+curIts = 12
+permuations = 450 i = 17
+N = 23 s = 2
+curIts = 11
+permuations = 461 i = 18
+N = 20 s = 2
+curIts = 9
+permuations = 470 i = 19
+N = 17 s = 2
+curIts = 8
+permuations = 478 i = 20
+N = 14 s = 2
+curIts = 6
+permuations = 484 i = 21
+N = 11 s = 2
+curIts = 5
+permuations = 489 i = 22
+N = 8 s = 2
+curIts = 3
+permuations = 492 i = 23
+N = 5 s = 2
+curIts = 2
+permuations = 494 i = 24
+permuations = 3024 i = 4
+N = 76 s = 3
+curIts = 24
+N = 73 s = 2
+curIts = 36
+permuations = 36 i = 0
+N = 70 s = 2
+curIts = 34
+permuations = 70 i = 1
+N = 67 s = 2
+curIts = 33
+permuations = 103 i = 2
+N = 64 s = 2
+curIts = 31
+permuations = 134 i = 3
+N = 61 s = 2
+curIts = 30
+permuations = 164 i = 4
+N = 58 s = 2
+curIts = 28
+permuations = 192 i = 5
+N = 55 s = 2
+curIts = 27
+permuations = 219 i = 6
+N = 52 s = 2
+curIts = 25
+permuations = 244 i = 7
+N = 49 s = 2
+curIts = 24
+permuations = 268 i = 8
+N = 46 s = 2
+curIts = 22
+permuations = 290 i = 9
+N = 43 s = 2
+curIts = 21
+permuations = 311 i = 10
+N = 40 s = 2
+curIts = 19
+permuations = 330 i = 11
+N = 37 s = 2
+curIts = 18
+permuations = 348 i = 12
+N = 34 s = 2
+curIts = 16
+permuations = 364 i = 13
+N = 31 s = 2
+curIts = 15
+permuations = 379 i = 14
+N = 28 s = 2
+curIts = 13
+permuations = 392 i = 15
+N = 25 s = 2
+curIts = 12
+permuations = 404 i = 16
+N = 22 s = 2
+curIts = 10
+permuations = 414 i = 17
+N = 19 s = 2
+curIts = 9
+permuations = 423 i = 18
+N = 16 s = 2
+curIts = 7
+permuations = 430 i = 19
+N = 13 s = 2
+curIts = 6
+permuations = 436 i = 20
+N = 10 s = 2
+curIts = 4
+permuations = 440 i = 21
+N = 7 s = 2
+curIts = 3
+permuations = 443 i = 22
+N = 4 s = 2
+curIts = 1
+permuations = 444 i = 23
+permuations = 3468 i = 5
+N = 72 s = 3
+curIts = 23
+N = 69 s = 2
+curIts = 34
+permuations = 34 i = 0
+N = 66 s = 2
+curIts = 32
+permuations = 66 i = 1
+N = 63 s = 2
+curIts = 31
+permuations = 97 i = 2
+N = 60 s = 2
+curIts = 29
+permuations = 126 i = 3
+N = 57 s = 2
+curIts = 28
+permuations = 154 i = 4
+N = 54 s = 2
+curIts = 26
+permuations = 180 i = 5
+N = 51 s = 2
+curIts = 25
+permuations = 205 i = 6
+N = 48 s = 2
+curIts = 23
+permuations = 228 i = 7
+N = 45 s = 2
+curIts = 22
+permuations = 250 i = 8
+N = 42 s = 2
+curIts = 20
+permuations = 270 i = 9
+N = 39 s = 2
+curIts = 19
+permuations = 289 i = 10
+N = 36 s = 2
+curIts = 17
+permuations = 306 i = 11
+N = 33 s = 2
+curIts = 16
+permuations = 322 i = 12
+N = 30 s = 2
+curIts = 14
+permuations = 336 i = 13
+N = 27 s = 2
+curIts = 13
+permuations = 349 i = 14
+N = 24 s = 2
+curIts = 11
+permuations = 360 i = 15
+N = 21 s = 2
+curIts = 10
+permuations = 370 i = 16
+N = 18 s = 2
+curIts = 8
+permuations = 378 i = 17
+N = 15 s = 2
+curIts = 7
+permuations = 385 i = 18
+N = 12 s = 2
+curIts = 5
+permuations = 390 i = 19
+N = 9 s = 2
+curIts = 4
+permuations = 394 i = 20
+N = 6 s = 2
+curIts = 2
+permuations = 396 i = 21
+N = 3 s = 2
+curIts = 1
+permuations = 397 i = 22
+permuations = 3865 i = 6
+N = 68 s = 3
+curIts = 21
+N = 65 s = 2
+curIts = 32
+permuations = 32 i = 0
+N = 62 s = 2
+curIts = 30
+permuations = 62 i = 1
+N = 59 s = 2
+curIts = 29
+permuations = 91 i = 2
+N = 56 s = 2
+curIts = 27
+permuations = 118 i = 3
+N = 53 s = 2
+curIts = 26
+permuations = 144 i = 4
+N = 50 s = 2
+curIts = 24
+permuations = 168 i = 5
+N = 47 s = 2
+curIts = 23
+permuations = 191 i = 6
+N = 44 s = 2
+curIts = 21
+permuations = 212 i = 7
+N = 41 s = 2
+curIts = 20
+permuations = 232 i = 8
+N = 38 s = 2
+curIts = 18
+permuations = 250 i = 9
+N = 35 s = 2
+curIts = 17
+permuations = 267 i = 10
+N = 32 s = 2
+curIts = 15
+permuations = 282 i = 11
+N = 29 s = 2
+curIts = 14
+permuations = 296 i = 12
+N = 26 s = 2
+curIts = 12
+permuations = 308 i = 13
+N = 23 s = 2
+curIts = 11
+permuations = 319 i = 14
+N = 20 s = 2
+curIts = 9
+permuations = 328 i = 15
+N = 17 s = 2
+curIts = 8
+permuations = 336 i = 16
+N = 14 s = 2
+curIts = 6
+permuations = 342 i = 17
+N = 11 s = 2
+curIts = 5
+permuations = 347 i = 18
+N = 8 s = 2
+curIts = 3
+permuations = 350 i = 19
+N = 5 s = 2
+curIts = 2
+permuations = 352 i = 20
+permuations = 4217 i = 7
+N = 64 s = 3
+curIts = 20
+N = 61 s = 2
+curIts = 30
+permuations = 30 i = 0
+N = 58 s = 2
+curIts = 28
+permuations = 58 i = 1
+N = 55 s = 2
+curIts = 27
+permuations = 85 i = 2
+N = 52 s = 2
+curIts = 25
+permuations = 110 i = 3
+N = 49 s = 2
+curIts = 24
+permuations = 134 i = 4
+N = 46 s = 2
+curIts = 22
+permuations = 156 i = 5
+N = 43 s = 2
+curIts = 21
+permuations = 177 i = 6
+N = 40 s = 2
+curIts = 19
+permuations = 196 i = 7
+N = 37 s = 2
+curIts = 18
+permuations = 214 i = 8
+N = 34 s = 2
+curIts = 16
+permuations = 230 i = 9
+N = 31 s = 2
+curIts = 15
+permuations = 245 i = 10
+N = 28 s = 2
+curIts = 13
+permuations = 258 i = 11
+N = 25 s = 2
+curIts = 12
+permuations = 270 i = 12
+N = 22 s = 2
+curIts = 10
+permuations = 280 i = 13
+N = 19 s = 2
+curIts = 9
+permuations = 289 i = 14
+N = 16 s = 2
+curIts = 7
+permuations = 296 i = 15
+N = 13 s = 2
+curIts = 6
+permuations = 302 i = 16
+N = 10 s = 2
+curIts = 4
+permuations = 306 i = 17
+N = 7 s = 2
+curIts = 3
+permuations = 309 i = 18
+N = 4 s = 2
+curIts = 1
+permuations = 310 i = 19
+permuations = 4527 i = 8
+N = 60 s = 3
+curIts = 19
+N = 57 s = 2
+curIts = 28
+permuations = 28 i = 0
+N = 54 s = 2
+curIts = 26
+permuations = 54 i = 1
+N = 51 s = 2
+curIts = 25
+permuations = 79 i = 2
+N = 48 s = 2
+curIts = 23
+permuations = 102 i = 3
+N = 45 s = 2
+curIts = 22
+permuations = 124 i = 4
+N = 42 s = 2
+curIts = 20
+permuations = 144 i = 5
+N = 39 s = 2
+curIts = 19
+permuations = 163 i = 6
+N = 36 s = 2
+curIts = 17
+permuations = 180 i = 7
+N = 33 s = 2
+curIts = 16
+permuations = 196 i = 8
+N = 30 s = 2
+curIts = 14
+permuations = 210 i = 9
+N = 27 s = 2
+curIts = 13
+permuations = 223 i = 10
+N = 24 s = 2
+curIts = 11
+permuations = 234 i = 11
+N = 21 s = 2
+curIts = 10
+permuations = 244 i = 12
+N = 18 s = 2
+curIts = 8
+permuations = 252 i = 13
+N = 15 s = 2
+curIts = 7
+permuations = 259 i = 14
+N = 12 s = 2
+curIts = 5
+permuations = 264 i = 15
+N = 9 s = 2
+curIts = 4
+permuations = 268 i = 16
+N = 6 s = 2
+curIts = 2
+permuations = 270 i = 17
+N = 3 s = 2
+curIts = 1
+permuations = 271 i = 18
+permuations = 4798 i = 9
+N = 56 s = 3
+curIts = 17
+N = 53 s = 2
+curIts = 26
+permuations = 26 i = 0
+N = 50 s = 2
+curIts = 24
+permuations = 50 i = 1
+N = 47 s = 2
+curIts = 23
+permuations = 73 i = 2
+N = 44 s = 2
+curIts = 21
+permuations = 94 i = 3
+N = 41 s = 2
+curIts = 20
+permuations = 114 i = 4
+N = 38 s = 2
+curIts = 18
+permuations = 132 i = 5
+N = 35 s = 2
+curIts = 17
+permuations = 149 i = 6
+N = 32 s = 2
+curIts = 15
+permuations = 164 i = 7
+N = 29 s = 2
+curIts = 14
+permuations = 178 i = 8
+N = 26 s = 2
+curIts = 12
+permuations = 190 i = 9
+N = 23 s = 2
+curIts = 11
+permuations = 201 i = 10
+N = 20 s = 2
+curIts = 9
+permuations = 210 i = 11
+N = 17 s = 2
+curIts = 8
+permuations = 218 i = 12
+N = 14 s = 2
+curIts = 6
+permuations = 224 i = 13
+N = 11 s = 2
+curIts = 5
+permuations = 229 i = 14
+N = 8 s = 2
+curIts = 3
+permuations = 232 i = 15
+N = 5 s = 2
+curIts = 2
+permuations = 234 i = 16
+permuations = 5032 i = 10
+N = 52 s = 3
+curIts = 16
+N = 49 s = 2
+curIts = 24
+permuations = 24 i = 0
+N = 46 s = 2
+curIts = 22
+permuations = 46 i = 1
+N = 43 s = 2
+curIts = 21
+permuations = 67 i = 2
+N = 40 s = 2
+curIts = 19
+permuations = 86 i = 3
+N = 37 s = 2
+curIts = 18
+permuations = 104 i = 4
+N = 34 s = 2
+curIts = 16
+permuations = 120 i = 5
+N = 31 s = 2
+curIts = 15
+permuations = 135 i = 6
+N = 28 s = 2
+curIts = 13
+permuations = 148 i = 7
+N = 25 s = 2
+curIts = 12
+permuations = 160 i = 8
+N = 22 s = 2
+curIts = 10
+permuations = 170 i = 9
+N = 19 s = 2
+curIts = 9
+permuations = 179 i = 10
+N = 16 s = 2
+curIts = 7
+permuations = 186 i = 11
+N = 13 s = 2
+curIts = 6
+permuations = 192 i = 12
+N = 10 s = 2
+curIts = 4
+permuations = 196 i = 13
+N = 7 s = 2
+curIts = 3
+permuations = 199 i = 14
+N = 4 s = 2
+curIts = 1
+permuations = 200 i = 15
+permuations = 5232 i = 11
+N = 48 s = 3
+curIts = 15
+N = 45 s = 2
+curIts = 22
+permuations = 22 i = 0
+N = 42 s = 2
+curIts = 20
+permuations = 42 i = 1
+N = 39 s = 2
+curIts = 19
+permuations = 61 i = 2
+N = 36 s = 2
+curIts = 17
+permuations = 78 i = 3
+N = 33 s = 2
+curIts = 16
+permuations = 94 i = 4
+N = 30 s = 2
+curIts = 14
+permuations = 108 i = 5
+N = 27 s = 2
+curIts = 13
+permuations = 121 i = 6
+N = 24 s = 2
+curIts = 11
+permuations = 132 i = 7
+N = 21 s = 2
+curIts = 10
+permuations = 142 i = 8
+N = 18 s = 2
+curIts = 8
+permuations = 150 i = 9
+N = 15 s = 2
+curIts = 7
+permuations = 157 i = 10
+N = 12 s = 2
+curIts = 5
+permuations = 162 i = 11
+N = 9 s = 2
+curIts = 4
+permuations = 166 i = 12
+N = 6 s = 2
+curIts = 2
+permuations = 168 i = 13
+N = 3 s = 2
+curIts = 1
+permuations = 169 i = 14
+permuations = 5401 i = 12
+N = 44 s = 3
+curIts = 13
+N = 41 s = 2
+curIts = 20
+permuations = 20 i = 0
+N = 38 s = 2
+curIts = 18
+permuations = 38 i = 1
+N = 35 s = 2
+curIts = 17
+permuations = 55 i = 2
+N = 32 s = 2
+curIts = 15
+permuations = 70 i = 3
+N = 29 s = 2
+curIts = 14
+permuations = 84 i = 4
+N = 26 s = 2
+curIts = 12
+permuations = 96 i = 5
+N = 23 s = 2
+curIts = 11
+permuations = 107 i = 6
+N = 20 s = 2
+curIts = 9
+permuations = 116 i = 7
+N = 17 s = 2
+curIts = 8
+permuations = 124 i = 8
+N = 14 s = 2
+curIts = 6
+permuations = 130 i = 9
+N = 11 s = 2
+curIts = 5
+permuations = 135 i = 10
+N = 8 s = 2
+curIts = 3
+permuations = 138 i = 11
+N = 5 s = 2
+curIts = 2
+permuations = 140 i = 12
+permuations = 5541 i = 13
+N = 40 s = 3
+curIts = 12
+N = 37 s = 2
+curIts = 18
+permuations = 18 i = 0
+N = 34 s = 2
+curIts = 16
+permuations = 34 i = 1
+N = 31 s = 2
+curIts = 15
+permuations = 49 i = 2
+N = 28 s = 2
+curIts = 13
+permuations = 62 i = 3
+N = 25 s = 2
+curIts = 12
+permuations = 74 i = 4
+N = 22 s = 2
+curIts = 10
+permuations = 84 i = 5
+N = 19 s = 2
+curIts = 9
+permuations = 93 i = 6
+N = 16 s = 2
+curIts = 7
+permuations = 100 i = 7
+N = 13 s = 2
+curIts = 6
+permuations = 106 i = 8
+N = 10 s = 2
+curIts = 4
+permuations = 110 i = 9
+N = 7 s = 2
+curIts = 3
+permuations = 113 i = 10
+N = 4 s = 2
+curIts = 1
+permuations = 114 i = 11
+permuations = 5655 i = 14
+N = 36 s = 3
+curIts = 11
+N = 33 s = 2
+curIts = 16
+permuations = 16 i = 0
+N = 30 s = 2
+curIts = 14
+permuations = 30 i = 1
+N = 27 s = 2
+curIts = 13
+permuations = 43 i = 2
+N = 24 s = 2
+curIts = 11
+permuations = 54 i = 3
+N = 21 s = 2
+curIts = 10
+permuations = 64 i = 4
+N = 18 s = 2
+curIts = 8
+permuations = 72 i = 5
+N = 15 s = 2
+curIts = 7
+permuations = 79 i = 6
+N = 12 s = 2
+curIts = 5
+permuations = 84 i = 7
+N = 9 s = 2
+curIts = 4
+permuations = 88 i = 8
+N = 6 s = 2
+curIts = 2
+permuations = 90 i = 9
+N = 3 s = 2
+curIts = 1
+permuations = 91 i = 10
+permuations = 5746 i = 15
+N = 32 s = 3
+curIts = 9
+N = 29 s = 2
+curIts = 14
+permuations = 14 i = 0
+N = 26 s = 2
+curIts = 12
+permuations = 26 i = 1
+N = 23 s = 2
+curIts = 11
+permuations = 37 i = 2
+N = 20 s = 2
+curIts = 9
+permuations = 46 i = 3
+N = 17 s = 2
+curIts = 8
+permuations = 54 i = 4
+N = 14 s = 2
+curIts = 6
+permuations = 60 i = 5
+N = 11 s = 2
+curIts = 5
+permuations = 65 i = 6
+N = 8 s = 2
+curIts = 3
+permuations = 68 i = 7
+N = 5 s = 2
+curIts = 2
+permuations = 70 i = 8
+permuations = 5816 i = 16
+N = 28 s = 3
+curIts = 8
+N = 25 s = 2
+curIts = 12
+permuations = 12 i = 0
+N = 22 s = 2
+curIts = 10
+permuations = 22 i = 1
+N = 19 s = 2
+curIts = 9
+permuations = 31 i = 2
+N = 16 s = 2
+curIts = 7
+permuations = 38 i = 3
+N = 13 s = 2
+curIts = 6
+permuations = 44 i = 4
+N = 10 s = 2
+curIts = 4
+permuations = 48 i = 5
+N = 7 s = 2
+curIts = 3
+permuations = 51 i = 6
+N = 4 s = 2
+curIts = 1
+permuations = 52 i = 7
+permuations = 5868 i = 17
+N = 24 s = 3
+curIts = 7
+N = 21 s = 2
+curIts = 10
+permuations = 10 i = 0
+N = 18 s = 2
+curIts = 8
+permuations = 18 i = 1
+N = 15 s = 2
+curIts = 7
+permuations = 25 i = 2
+N = 12 s = 2
+curIts = 5
+permuations = 30 i = 3
+N = 9 s = 2
+curIts = 4
+permuations = 34 i = 4
+N = 6 s = 2
+curIts = 2
+permuations = 36 i = 5
+N = 3 s = 2
+curIts = 1
+permuations = 37 i = 6
+permuations = 5905 i = 18
+N = 20 s = 3
+curIts = 5
+N = 17 s = 2
+curIts = 8
+permuations = 8 i = 0
+N = 14 s = 2
+curIts = 6
+permuations = 14 i = 1
+N = 11 s = 2
+curIts = 5
+permuations = 19 i = 2
+N = 8 s = 2
+curIts = 3
+permuations = 22 i = 3
+N = 5 s = 2
+curIts = 2
+permuations = 24 i = 4
+permuations = 5929 i = 19
+N = 16 s = 3
+curIts = 4
+N = 13 s = 2
+curIts = 6
+permuations = 6 i = 0
+N = 10 s = 2
+curIts = 4
+permuations = 10 i = 1
+N = 7 s = 2
+curIts = 3
+permuations = 13 i = 2
+N = 4 s = 2
+curIts = 1
+permuations = 14 i = 3
+permuations = 5943 i = 20
+N = 12 s = 3
+curIts = 3
+N = 9 s = 2
+curIts = 4
+permuations = 4 i = 0
+N = 6 s = 2
+curIts = 2
+permuations = 6 i = 1
+N = 3 s = 2
+curIts = 1
+permuations = 7 i = 2
+permuations = 5950 i = 21
+N = 8 s = 3
+curIts = 1
+N = 5 s = 2
+curIts = 2
+permuations = 2 i = 0
+permuations = 5952 i = 22
+permuations = 451100 i = 19
+N = 95 s = 4
+curIts = 22
+N = 91 s = 3
+curIts = 29
+N = 88 s = 2
+curIts = 43
+permuations = 43 i = 0
+N = 85 s = 2
+curIts = 42
+permuations = 85 i = 1
+N = 82 s = 2
+curIts = 40
+permuations = 125 i = 2
+N = 79 s = 2
+curIts = 39
+permuations = 164 i = 3
+N = 76 s = 2
+curIts = 37
+permuations = 201 i = 4
+N = 73 s = 2
+curIts = 36
+permuations = 237 i = 5
+N = 70 s = 2
+curIts = 34
+permuations = 271 i = 6
+N = 67 s = 2
+curIts = 33
+permuations = 304 i = 7
+N = 64 s = 2
+curIts = 31
+permuations = 335 i = 8
+N = 61 s = 2
+curIts = 30
+permuations = 365 i = 9
+N = 58 s = 2
+curIts = 28
+permuations = 393 i = 10
+N = 55 s = 2
+curIts = 27
+permuations = 420 i = 11
+N = 52 s = 2
+curIts = 25
+permuations = 445 i = 12
+N = 49 s = 2
+curIts = 24
+permuations = 469 i = 13
+N = 46 s = 2
+curIts = 22
+permuations = 491 i = 14
+N = 43 s = 2
+curIts = 21
+permuations = 512 i = 15
+N = 40 s = 2
+curIts = 19
+permuations = 531 i = 16
+N = 37 s = 2
+curIts = 18
+permuations = 549 i = 17
+N = 34 s = 2
+curIts = 16
+permuations = 565 i = 18
+N = 31 s = 2
+curIts = 15
+permuations = 580 i = 19
+N = 28 s = 2
+curIts = 13
+permuations = 593 i = 20
+N = 25 s = 2
+curIts = 12
+permuations = 605 i = 21
+N = 22 s = 2
+curIts = 10
+permuations = 615 i = 22
+N = 19 s = 2
+curIts = 9
+permuations = 624 i = 23
+N = 16 s = 2
+curIts = 7
+permuations = 631 i = 24
+N = 13 s = 2
+curIts = 6
+permuations = 637 i = 25
+N = 10 s = 2
+curIts = 4
+permuations = 641 i = 26
+N = 7 s = 2
+curIts = 3
+permuations = 644 i = 27
+N = 4 s = 2
+curIts = 1
+permuations = 645 i = 28
+permuations = 645 i = 0
+N = 87 s = 3
+curIts = 28
+N = 84 s = 2
+curIts = 41
+permuations = 41 i = 0
+N = 81 s = 2
+curIts = 40
+permuations = 81 i = 1
+N = 78 s = 2
+curIts = 38
+permuations = 119 i = 2
+N = 75 s = 2
+curIts = 37
+permuations = 156 i = 3
+N = 72 s = 2
+curIts = 35
+permuations = 191 i = 4
+N = 69 s = 2
+curIts = 34
+permuations = 225 i = 5
+N = 66 s = 2
+curIts = 32
+permuations = 257 i = 6
+N = 63 s = 2
+curIts = 31
+permuations = 288 i = 7
+N = 60 s = 2
+curIts = 29
+permuations = 317 i = 8
+N = 57 s = 2
+curIts = 28
+permuations = 345 i = 9
+N = 54 s = 2
+curIts = 26
+permuations = 371 i = 10
+N = 51 s = 2
+curIts = 25
+permuations = 396 i = 11
+N = 48 s = 2
+curIts = 23
+permuations = 419 i = 12
+N = 45 s = 2
+curIts = 22
+permuations = 441 i = 13
+N = 42 s = 2
+curIts = 20
+permuations = 461 i = 14
+N = 39 s = 2
+curIts = 19
+permuations = 480 i = 15
+N = 36 s = 2
+curIts = 17
+permuations = 497 i = 16
+N = 33 s = 2
+curIts = 16
+permuations = 513 i = 17
+N = 30 s = 2
+curIts = 14
+permuations = 527 i = 18
+N = 27 s = 2
+curIts = 13
+permuations = 540 i = 19
+N = 24 s = 2
+curIts = 11
+permuations = 551 i = 20
+N = 21 s = 2
+curIts = 10
+permuations = 561 i = 21
+N = 18 s = 2
+curIts = 8
+permuations = 569 i = 22
+N = 15 s = 2
+curIts = 7
+permuations = 576 i = 23
+N = 12 s = 2
+curIts = 5
+permuations = 581 i = 24
+N = 9 s = 2
+curIts = 4
+permuations = 585 i = 25
+N = 6 s = 2
+curIts = 2
+permuations = 587 i = 26
+N = 3 s = 2
+curIts = 1
+permuations = 588 i = 27
+permuations = 1233 i = 1
+N = 83 s = 3
+curIts = 26
+N = 80 s = 2
+curIts = 39
+permuations = 39 i = 0
+N = 77 s = 2
+curIts = 38
+permuations = 77 i = 1
+N = 74 s = 2
+curIts = 36
+permuations = 113 i = 2
+N = 71 s = 2
+curIts = 35
+permuations = 148 i = 3
+N = 68 s = 2
+curIts = 33
+permuations = 181 i = 4
+N = 65 s = 2
+curIts = 32
+permuations = 213 i = 5
+N = 62 s = 2
+curIts = 30
+permuations = 243 i = 6
+N = 59 s = 2
+curIts = 29
+permuations = 272 i = 7
+N = 56 s = 2
+curIts = 27
+permuations = 299 i = 8
+N = 53 s = 2
+curIts = 26
+permuations = 325 i = 9
+N = 50 s = 2
+curIts = 24
+permuations = 349 i = 10
+N = 47 s = 2
+curIts = 23
+permuations = 372 i = 11
+N = 44 s = 2
+curIts = 21
+permuations = 393 i = 12
+N = 41 s = 2
+curIts = 20
+permuations = 413 i = 13
+N = 38 s = 2
+curIts = 18
+permuations = 431 i = 14
+N = 35 s = 2
+curIts = 17
+permuations = 448 i = 15
+N = 32 s = 2
+curIts = 15
+permuations = 463 i = 16
+N = 29 s = 2
+curIts = 14
+permuations = 477 i = 17
+N = 26 s = 2
+curIts = 12
+permuations = 489 i = 18
+N = 23 s = 2
+curIts = 11
+permuations = 500 i = 19
+N = 20 s = 2
+curIts = 9
+permuations = 509 i = 20
+N = 17 s = 2
+curIts = 8
+permuations = 517 i = 21
+N = 14 s = 2
+curIts = 6
+permuations = 523 i = 22
+N = 11 s = 2
+curIts = 5
+permuations = 528 i = 23
+N = 8 s = 2
+curIts = 3
+permuations = 531 i = 24
+N = 5 s = 2
+curIts = 2
+permuations = 533 i = 25
+permuations = 1766 i = 2
+N = 79 s = 3
+curIts = 25
+N = 76 s = 2
+curIts = 37
+permuations = 37 i = 0
+N = 73 s = 2
+curIts = 36
+permuations = 73 i = 1
+N = 70 s = 2
+curIts = 34
+permuations = 107 i = 2
+N = 67 s = 2
+curIts = 33
+permuations = 140 i = 3
+N = 64 s = 2
+curIts = 31
+permuations = 171 i = 4
+N = 61 s = 2
+curIts = 30
+permuations = 201 i = 5
+N = 58 s = 2
+curIts = 28
+permuations = 229 i = 6
+N = 55 s = 2
+curIts = 27
+permuations = 256 i = 7
+N = 52 s = 2
+curIts = 25
+permuations = 281 i = 8
+N = 49 s = 2
+curIts = 24
+permuations = 305 i = 9
+N = 46 s = 2
+curIts = 22
+permuations = 327 i = 10
+N = 43 s = 2
+curIts = 21
+permuations = 348 i = 11
+N = 40 s = 2
+curIts = 19
+permuations = 367 i = 12
+N = 37 s = 2
+curIts = 18
+permuations = 385 i = 13
+N = 34 s = 2
+curIts = 16
+permuations = 401 i = 14
+N = 31 s = 2
+curIts = 15
+permuations = 416 i = 15
+N = 28 s = 2
+curIts = 13
+permuations = 429 i = 16
+N = 25 s = 2
+curIts = 12
+permuations = 441 i = 17
+N = 22 s = 2
+curIts = 10
+permuations = 451 i = 18
+N = 19 s = 2
+curIts = 9
+permuations = 460 i = 19
+N = 16 s = 2
+curIts = 7
+permuations = 467 i = 20
+N = 13 s = 2
+curIts = 6
+permuations = 473 i = 21
+N = 10 s = 2
+curIts = 4
+permuations = 477 i = 22
+N = 7 s = 2
+curIts = 3
+permuations = 480 i = 23
+N = 4 s = 2
+curIts = 1
+permuations = 481 i = 24
+permuations = 2247 i = 3
+N = 75 s = 3
+curIts = 24
+N = 72 s = 2
+curIts = 35
+permuations = 35 i = 0
+N = 69 s = 2
+curIts = 34
+permuations = 69 i = 1
+N = 66 s = 2
+curIts = 32
+permuations = 101 i = 2
+N = 63 s = 2
+curIts = 31
+permuations = 132 i = 3
+N = 60 s = 2
+curIts = 29
+permuations = 161 i = 4
+N = 57 s = 2
+curIts = 28
+permuations = 189 i = 5
+N = 54 s = 2
+curIts = 26
+permuations = 215 i = 6
+N = 51 s = 2
+curIts = 25
+permuations = 240 i = 7
+N = 48 s = 2
+curIts = 23
+permuations = 263 i = 8
+N = 45 s = 2
+curIts = 22
+permuations = 285 i = 9
+N = 42 s = 2
+curIts = 20
+permuations = 305 i = 10
+N = 39 s = 2
+curIts = 19
+permuations = 324 i = 11
+N = 36 s = 2
+curIts = 17
+permuations = 341 i = 12
+N = 33 s = 2
+curIts = 16
+permuations = 357 i = 13
+N = 30 s = 2
+curIts = 14
+permuations = 371 i = 14
+N = 27 s = 2
+curIts = 13
+permuations = 384 i = 15
+N = 24 s = 2
+curIts = 11
+permuations = 395 i = 16
+N = 21 s = 2
+curIts = 10
+permuations = 405 i = 17
+N = 18 s = 2
+curIts = 8
+permuations = 413 i = 18
+N = 15 s = 2
+curIts = 7
+permuations = 420 i = 19
+N = 12 s = 2
+curIts = 5
+permuations = 425 i = 20
+N = 9 s = 2
+curIts = 4
+permuations = 429 i = 21
+N = 6 s = 2
+curIts = 2
+permuations = 431 i = 22
+N = 3 s = 2
+curIts = 1
+permuations = 432 i = 23
+permuations = 2679 i = 4
+N = 71 s = 3
+curIts = 22
+N = 68 s = 2
+curIts = 33
+permuations = 33 i = 0
+N = 65 s = 2
+curIts = 32
+permuations = 65 i = 1
+N = 62 s = 2
+curIts = 30
+permuations = 95 i = 2
+N = 59 s = 2
+curIts = 29
+permuations = 124 i = 3
+N = 56 s = 2
+curIts = 27
+permuations = 151 i = 4
+N = 53 s = 2
+curIts = 26
+permuations = 177 i = 5
+N = 50 s = 2
+curIts = 24
+permuations = 201 i = 6
+N = 47 s = 2
+curIts = 23
+permuations = 224 i = 7
+N = 44 s = 2
+curIts = 21
+permuations = 245 i = 8
+N = 41 s = 2
+curIts = 20
+permuations = 265 i = 9
+N = 38 s = 2
+curIts = 18
+permuations = 283 i = 10
+N = 35 s = 2
+curIts = 17
+permuations = 300 i = 11
+N = 32 s = 2
+curIts = 15
+permuations = 315 i = 12
+N = 29 s = 2
+curIts = 14
+permuations = 329 i = 13
+N = 26 s = 2
+curIts = 12
+permuations = 341 i = 14
+N = 23 s = 2
+curIts = 11
+permuations = 352 i = 15
+N = 20 s = 2
+curIts = 9
+permuations = 361 i = 16
+N = 17 s = 2
+curIts = 8
+permuations = 369 i = 17
+N = 14 s = 2
+curIts = 6
+permuations = 375 i = 18
+N = 11 s = 2
+curIts = 5
+permuations = 380 i = 19
+N = 8 s = 2
+curIts = 3
+permuations = 383 i = 20
+N = 5 s = 2
+curIts = 2
+permuations = 385 i = 21
+permuations = 3064 i = 5
+N = 67 s = 3
+curIts = 21
+N = 64 s = 2
+curIts = 31
+permuations = 31 i = 0
+N = 61 s = 2
+curIts = 30
+permuations = 61 i = 1
+N = 58 s = 2
+curIts = 28
+permuations = 89 i = 2
+N = 55 s = 2
+curIts = 27
+permuations = 116 i = 3
+N = 52 s = 2
+curIts = 25
+permuations = 141 i = 4
+N = 49 s = 2
+curIts = 24
+permuations = 165 i = 5
+N = 46 s = 2
+curIts = 22
+permuations = 187 i = 6
+N = 43 s = 2
+curIts = 21
+permuations = 208 i = 7
+N = 40 s = 2
+curIts = 19
+permuations = 227 i = 8
+N = 37 s = 2
+curIts = 18
+permuations = 245 i = 9
+N = 34 s = 2
+curIts = 16
+permuations = 261 i = 10
+N = 31 s = 2
+curIts = 15
+permuations = 276 i = 11
+N = 28 s = 2
+curIts = 13
+permuations = 289 i = 12
+N = 25 s = 2
+curIts = 12
+permuations = 301 i = 13
+N = 22 s = 2
+curIts = 10
+permuations = 311 i = 14
+N = 19 s = 2
+curIts = 9
+permuations = 320 i = 15
+N = 16 s = 2
+curIts = 7
+permuations = 327 i = 16
+N = 13 s = 2
+curIts = 6
+permuations = 333 i = 17
+N = 10 s = 2
+curIts = 4
+permuations = 337 i = 18
+N = 7 s = 2
+curIts = 3
+permuations = 340 i = 19
+N = 4 s = 2
+curIts = 1
+permuations = 341 i = 20
+permuations = 3405 i = 6
+N = 63 s = 3
+curIts = 20
+N = 60 s = 2
+curIts = 29
+permuations = 29 i = 0
+N = 57 s = 2
+curIts = 28
+permuations = 57 i = 1
+N = 54 s = 2
+curIts = 26
+permuations = 83 i = 2
+N = 51 s = 2
+curIts = 25
+permuations = 108 i = 3
+N = 48 s = 2
+curIts = 23
+permuations = 131 i = 4
+N = 45 s = 2
+curIts = 22
+permuations = 153 i = 5
+N = 42 s = 2
+curIts = 20
+permuations = 173 i = 6
+N = 39 s = 2
+curIts = 19
+permuations = 192 i = 7
+N = 36 s = 2
+curIts = 17
+permuations = 209 i = 8
+N = 33 s = 2
+curIts = 16
+permuations = 225 i = 9
+N = 30 s = 2
+curIts = 14
+permuations = 239 i = 10
+N = 27 s = 2
+curIts = 13
+permuations = 252 i = 11
+N = 24 s = 2
+curIts = 11
+permuations = 263 i = 12
+N = 21 s = 2
+curIts = 10
+permuations = 273 i = 13
+N = 18 s = 2
+curIts = 8
+permuations = 281 i = 14
+N = 15 s = 2
+curIts = 7
+permuations = 288 i = 15
+N = 12 s = 2
+curIts = 5
+permuations = 293 i = 16
+N = 9 s = 2
+curIts = 4
+permuations = 297 i = 17
+N = 6 s = 2
+curIts = 2
+permuations = 299 i = 18
+N = 3 s = 2
+curIts = 1
+permuations = 300 i = 19
+permuations = 3705 i = 7
+N = 59 s = 3
+curIts = 18
+N = 56 s = 2
+curIts = 27
+permuations = 27 i = 0
+N = 53 s = 2
+curIts = 26
+permuations = 53 i = 1
+N = 50 s = 2
+curIts = 24
+permuations = 77 i = 2
+N = 47 s = 2
+curIts = 23
+permuations = 100 i = 3
+N = 44 s = 2
+curIts = 21
+permuations = 121 i = 4
+N = 41 s = 2
+curIts = 20
+permuations = 141 i = 5
+N = 38 s = 2
+curIts = 18
+permuations = 159 i = 6
+N = 35 s = 2
+curIts = 17
+permuations = 176 i = 7
+N = 32 s = 2
+curIts = 15
+permuations = 191 i = 8
+N = 29 s = 2
+curIts = 14
+permuations = 205 i = 9
+N = 26 s = 2
+curIts = 12
+permuations = 217 i = 10
+N = 23 s = 2
+curIts = 11
+permuations = 228 i = 11
+N = 20 s = 2
+curIts = 9
+permuations = 237 i = 12
+N = 17 s = 2
+curIts = 8
+permuations = 245 i = 13
+N = 14 s = 2
+curIts = 6
+permuations = 251 i = 14
+N = 11 s = 2
+curIts = 5
+permuations = 256 i = 15
+N = 8 s = 2
+curIts = 3
+permuations = 259 i = 16
+N = 5 s = 2
+curIts = 2
+permuations = 261 i = 17
+permuations = 3966 i = 8
+N = 55 s = 3
+curIts = 17
+N = 52 s = 2
+curIts = 25
+permuations = 25 i = 0
+N = 49 s = 2
+curIts = 24
+permuations = 49 i = 1
+N = 46 s = 2
+curIts = 22
+permuations = 71 i = 2
+N = 43 s = 2
+curIts = 21
+permuations = 92 i = 3
+N = 40 s = 2
+curIts = 19
+permuations = 111 i = 4
+N = 37 s = 2
+curIts = 18
+permuations = 129 i = 5
+N = 34 s = 2
+curIts = 16
+permuations = 145 i = 6
+N = 31 s = 2
+curIts = 15
+permuations = 160 i = 7
+N = 28 s = 2
+curIts = 13
+permuations = 173 i = 8
+N = 25 s = 2
+curIts = 12
+permuations = 185 i = 9
+N = 22 s = 2
+curIts = 10
+permuations = 195 i = 10
+N = 19 s = 2
+curIts = 9
+permuations = 204 i = 11
+N = 16 s = 2
+curIts = 7
+permuations = 211 i = 12
+N = 13 s = 2
+curIts = 6
+permuations = 217 i = 13
+N = 10 s = 2
+curIts = 4
+permuations = 221 i = 14
+N = 7 s = 2
+curIts = 3
+permuations = 224 i = 15
+N = 4 s = 2
+curIts = 1
+permuations = 225 i = 16
+permuations = 4191 i = 9
+N = 51 s = 3
+curIts = 16
+N = 48 s = 2
+curIts = 23
+permuations = 23 i = 0
+N = 45 s = 2
+curIts = 22
+permuations = 45 i = 1
+N = 42 s = 2
+curIts = 20
+permuations = 65 i = 2
+N = 39 s = 2
+curIts = 19
+permuations = 84 i = 3
+N = 36 s = 2
+curIts = 17
+permuations = 101 i = 4
+N = 33 s = 2
+curIts = 16
+permuations = 117 i = 5
+N = 30 s = 2
+curIts = 14
+permuations = 131 i = 6
+N = 27 s = 2
+curIts = 13
+permuations = 144 i = 7
+N = 24 s = 2
+curIts = 11
+permuations = 155 i = 8
+N = 21 s = 2
+curIts = 10
+permuations = 165 i = 9
+N = 18 s = 2
+curIts = 8
+permuations = 173 i = 10
+N = 15 s = 2
+curIts = 7
+permuations = 180 i = 11
+N = 12 s = 2
+curIts = 5
+permuations = 185 i = 12
+N = 9 s = 2
+curIts = 4
+permuations = 189 i = 13
+N = 6 s = 2
+curIts = 2
+permuations = 191 i = 14
+N = 3 s = 2
+curIts = 1
+permuations = 192 i = 15
+permuations = 4383 i = 10
+N = 47 s = 3
+curIts = 14
+N = 44 s = 2
+curIts = 21
+permuations = 21 i = 0
+N = 41 s = 2
+curIts = 20
+permuations = 41 i = 1
+N = 38 s = 2
+curIts = 18
+permuations = 59 i = 2
+N = 35 s = 2
+curIts = 17
+permuations = 76 i = 3
+N = 32 s = 2
+curIts = 15
+permuations = 91 i = 4
+N = 29 s = 2
+curIts = 14
+permuations = 105 i = 5
+N = 26 s = 2
+curIts = 12
+permuations = 117 i = 6
+N = 23 s = 2
+curIts = 11
+permuations = 128 i = 7
+N = 20 s = 2
+curIts = 9
+permuations = 137 i = 8
+N = 17 s = 2
+curIts = 8
+permuations = 145 i = 9
+N = 14 s = 2
+curIts = 6
+permuations = 151 i = 10
+N = 11 s = 2
+curIts = 5
+permuations = 156 i = 11
+N = 8 s = 2
+curIts = 3
+permuations = 159 i = 12
+N = 5 s = 2
+curIts = 2
+permuations = 161 i = 13
+permuations = 4544 i = 11
+N = 43 s = 3
+curIts = 13
+N = 40 s = 2
+curIts = 19
+permuations = 19 i = 0
+N = 37 s = 2
+curIts = 18
+permuations = 37 i = 1
+N = 34 s = 2
+curIts = 16
+permuations = 53 i = 2
+N = 31 s = 2
+curIts = 15
+permuations = 68 i = 3
+N = 28 s = 2
+curIts = 13
+permuations = 81 i = 4
+N = 25 s = 2
+curIts = 12
+permuations = 93 i = 5
+N = 22 s = 2
+curIts = 10
+permuations = 103 i = 6
+N = 19 s = 2
+curIts = 9
+permuations = 112 i = 7
+N = 16 s = 2
+curIts = 7
+permuations = 119 i = 8
+N = 13 s = 2
+curIts = 6
+permuations = 125 i = 9
+N = 10 s = 2
+curIts = 4
+permuations = 129 i = 10
+N = 7 s = 2
+curIts = 3
+permuations = 132 i = 11
+N = 4 s = 2
+curIts = 1
+permuations = 133 i = 12
+permuations = 4677 i = 12
+N = 39 s = 3
+curIts = 12
+N = 36 s = 2
+curIts = 17
+permuations = 17 i = 0
+N = 33 s = 2
+curIts = 16
+permuations = 33 i = 1
+N = 30 s = 2
+curIts = 14
+permuations = 47 i = 2
+N = 27 s = 2
+curIts = 13
+permuations = 60 i = 3
+N = 24 s = 2
+curIts = 11
+permuations = 71 i = 4
+N = 21 s = 2
+curIts = 10
+permuations = 81 i = 5
+N = 18 s = 2
+curIts = 8
+permuations = 89 i = 6
+N = 15 s = 2
+curIts = 7
+permuations = 96 i = 7
+N = 12 s = 2
+curIts = 5
+permuations = 101 i = 8
+N = 9 s = 2
+curIts = 4
+permuations = 105 i = 9
+N = 6 s = 2
+curIts = 2
+permuations = 107 i = 10
+N = 3 s = 2
+curIts = 1
+permuations = 108 i = 11
+permuations = 4785 i = 13
+N = 35 s = 3
+curIts = 10
+N = 32 s = 2
+curIts = 15
+permuations = 15 i = 0
+N = 29 s = 2
+curIts = 14
+permuations = 29 i = 1
+N = 26 s = 2
+curIts = 12
+permuations = 41 i = 2
+N = 23 s = 2
+curIts = 11
+permuations = 52 i = 3
+N = 20 s = 2
+curIts = 9
+permuations = 61 i = 4
+N = 17 s = 2
+curIts = 8
+permuations = 69 i = 5
+N = 14 s = 2
+curIts = 6
+permuations = 75 i = 6
+N = 11 s = 2
+curIts = 5
+permuations = 80 i = 7
+N = 8 s = 2
+curIts = 3
+permuations = 83 i = 8
+N = 5 s = 2
+curIts = 2
+permuations = 85 i = 9
+permuations = 4870 i = 14
+N = 31 s = 3
+curIts = 9
+N = 28 s = 2
+curIts = 13
+permuations = 13 i = 0
+N = 25 s = 2
+curIts = 12
+permuations = 25 i = 1
+N = 22 s = 2
+curIts = 10
+permuations = 35 i = 2
+N = 19 s = 2
+curIts = 9
+permuations = 44 i = 3
+N = 16 s = 2
+curIts = 7
+permuations = 51 i = 4
+N = 13 s = 2
+curIts = 6
+permuations = 57 i = 5
+N = 10 s = 2
+curIts = 4
+permuations = 61 i = 6
+N = 7 s = 2
+curIts = 3
+permuations = 64 i = 7
+N = 4 s = 2
+curIts = 1
+permuations = 65 i = 8
+permuations = 4935 i = 15
+N = 27 s = 3
+curIts = 8
+N = 24 s = 2
+curIts = 11
+permuations = 11 i = 0
+N = 21 s = 2
+curIts = 10
+permuations = 21 i = 1
+N = 18 s = 2
+curIts = 8
+permuations = 29 i = 2
+N = 15 s = 2
+curIts = 7
+permuations = 36 i = 3
+N = 12 s = 2
+curIts = 5
+permuations = 41 i = 4
+N = 9 s = 2
+curIts = 4
+permuations = 45 i = 5
+N = 6 s = 2
+curIts = 2
+permuations = 47 i = 6
+N = 3 s = 2
+curIts = 1
+permuations = 48 i = 7
+permuations = 4983 i = 16
+N = 23 s = 3
+curIts = 6
+N = 20 s = 2
+curIts = 9
+permuations = 9 i = 0
+N = 17 s = 2
+curIts = 8
+permuations = 17 i = 1
+N = 14 s = 2
+curIts = 6
+permuations = 23 i = 2
+N = 11 s = 2
+curIts = 5
+permuations = 28 i = 3
+N = 8 s = 2
+curIts = 3
+permuations = 31 i = 4
+N = 5 s = 2
+curIts = 2
+permuations = 33 i = 5
+permuations = 5016 i = 17
+N = 19 s = 3
+curIts = 5
+N = 16 s = 2
+curIts = 7
+permuations = 7 i = 0
+N = 13 s = 2
+curIts = 6
+permuations = 13 i = 1
+N = 10 s = 2
+curIts = 4
+permuations = 17 i = 2
+N = 7 s = 2
+curIts = 3
+permuations = 20 i = 3
+N = 4 s = 2
+curIts = 1
+permuations = 21 i = 4
+permuations = 5037 i = 18
+N = 15 s = 3
+curIts = 4
+N = 12 s = 2
+curIts = 5
+permuations = 5 i = 0
+N = 9 s = 2
+curIts = 4
+permuations = 9 i = 1
+N = 6 s = 2
+curIts = 2
+permuations = 11 i = 2
+N = 3 s = 2
+curIts = 1
+permuations = 12 i = 3
+permuations = 5049 i = 19
+N = 11 s = 3
+curIts = 2
+N = 8 s = 2
+curIts = 3
+permuations = 3
