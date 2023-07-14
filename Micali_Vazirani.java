@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.HashMap;
 import java.util.concurrent.ConcurrentHashMap;
 
-public class Solution {
+public class Micali_Vazirani {
 
     public static void main (String[] args)
     {
@@ -45,9 +45,9 @@ public class Solution {
         //Matching
         boolean ExistsAugmentingPath = true;
 
-        HashMap<Integer, Blossom> blossoms = new HashMap<Integer, Blossom>(_list.length / 3);
-        HashMap<Integer, Integer> blossomsPointers = new HashMap<Integer, Integer>(_list.length);
-        HashMap<Integer, TreeNode> TreeNodes = new HashMap<Integer, TreeNode>(_list.length);
+        HashMap<Integer, Blossom> blossoms = new HashMap<Integer, Blossom>(_list.length / 3); //List Of Possible Blossoms
+        HashMap<Integer, Integer> blossomsPointers = new HashMap<Integer, Integer>(_list.length); //The Blossom Key Each Node points to
+        HashMap<Integer, TreeNode> TreeNodes = new HashMap<Integer, TreeNode>(_list.length); // THey Corresponding Node for each Number
         Set<Integer> CurrentTreeNodes = ConcurrentHashMap.newKeySet(_list.length);
         Set<Integer> UpcommingTreeNodes = ConcurrentHashMap.newKeySet(_list.length);
         
@@ -76,7 +76,7 @@ public class Solution {
                 {
 
                     if (!CurrentTreeNodes.contains(i)) continue;
-                    if (level % 2 == 0)
+                    if (level % 2 == 0) //Current Level is Even = Find The Match
                     {
                         //If the Vertex that is Being Connected to is Already in the Map
                         //Then Either an Alternating Path to an unmatched Vertex has Been Found, or a Blossom Has Been Found.
@@ -220,7 +220,7 @@ public class Solution {
                                         break;
                                     }
                                     else if (unmatchedNodes.contains(A_Stack.peek()) || unmatchedNodes.contains(B_Stack.peek()))
-                                    {
+                                    { //Found an Unmatched Node
                                         
                                     }
                                         
@@ -232,7 +232,7 @@ public class Solution {
                         }
                         else //If It Doesn't Yet Exist in the Map, Create a New Node and Keep Up the BFS.
                         {
-                            {
+                            { 
 
                             }
 
@@ -244,15 +244,15 @@ public class Solution {
                             }
                         }
                     }
-                    else
+                    else //Level is Odd = Find it's unmatched nodes
                     {
                         for (Integer j : graph[i]._unMatchedNodes)
                         {
                             if (unmatchedNodes.contains(j))
                             {
                                 //Code For Creating Matches and Inverting Paths.
-                                {
-
+                                { //Logic: Match i to j, go up to parent, use parent[0] 
+                                    
                                 }
                             }
                             else //Unmatched Edge has a Match.
